@@ -22,24 +22,24 @@
     "category"      : 0,
     "age"           : "1.8 Milion Years Ago",
     "description"   : "The Paleolithic era, often referred to as the Old Stone Age, spanned a vast period from around 2.6 million years ago to approximately 10,000 BCE. It was characterized by the use of stone tools by early humans and marked a critical phase in human development. During this era, the use of stone tools began with the incidental use of tools by utilizing natural rocks that had sharp edges. It was only then that humans started to shape stone tools in a simple way to get a tool shape that was quite specific. Several types of tools that were quite common at this time included chopping axes, scraping axes, and hand axes.",
-    "button"         : "./assets/Stone Tools (Paleolithic).png",
-    "image"         : "./assets/img-stone tools (paleolithic).png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Stone%20Tools%20(Paleolithic Era).png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-stone%20tools%20(paleolithic).png"
 },
 {   
     "name"          : "Nomadic",
     "category"      : 1,
     "age"           : "1.8 Milion Years Ago",
     "description"   : "The nomadic life era, also known as the era of nomadism, was a period in human history characterized by a mobile way of life. Nomadic societies were primarily involved in herding animals, such as sheep, goats, or cattle, and constantly moved in search of fresh grazing grounds. They relied on animal husbandry for sustenance, utilizing the resources provided by their livestock for food, clothing, and shelter. Nomads were skilled in navigating diverse landscapes, adapting to harsh environments, and maintaining a deep understanding of seasonal cycles. This lifestyle fostered a strong sense of community and resilience, as they formed close-knit kinship networks and traded goods with settled societies. The era of nomadism played a significant role in shaping human culture, identity, and the development of early trade routes.",
-    "button"         : "./assets/Nomadic.png",
-    "image"         : "./assets/img-nomadic.png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Nomadic.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-nomadic.png"
 },
 {   
     "name"          : "Hunting and Gathering",
     "category"      : 2,
     "age"           : "1.8 Milion Years Ago",
     "description"   : "Hunting and gathering, also known as foraging, was the primary mode of subsistence for early human societies before the advent of agriculture. This way of life involved hunting animals for food and gathering edible plants, fruits, nuts, and roots from the natural environment. These hunter-gatherer communities relied on their intimate knowledge of the land, seasons, and animal behavior to sustain themselves. They exhibited a deep connection with nature and practiced sustainable harvesting to ensure the availability of resources. This lifestyle fostered cooperation, egalitarian social structures, and a rich cultural heritage, as they shared knowledge, skills, and communal responsibilities, forging strong bonds within their groups.",
-    "button"        : "./assets/Hunting and Gathering.png",
-    "image"         : "./assets/img-hunting and gathering.png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Hunting%20and%20Gathering.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-hunting%20and%20gathering.png"
 },
 
 {   
@@ -47,111 +47,111 @@
     "category"      : 3,
     "age"           : "1.8 - 1.2 Milion Years Ago",
     "description"   : "Homo erectus archaic, a subspecies of Homo erectus, emerged around 1.8 million years ago and thrived for over a hundreds thousand years. These early humans displayed significant advancements in their anatomy and behavior. With an average height of around 5.5 feet, they possessed a robust skeletal structure and a large brain capacity. Homo erectus archaic was known for their impressive ability to walk upright, adapting to various environments across Africa and Eurasia. They were skilled toolmakers, creating simple stone tools like hand axes. Their successful migration and adaptive traits make them a crucial link in the human evolutionary chain.",
-    "button"        : "./assets/Homo Erectus Archaic.png",
-    "image"         : "./assets/img-homo erectus archaic.png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Erectus%20Archaic.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-homo%20erectus%20archaic.png"
 },
 {
     "name"          : "Homo Erectus Tipic",
     "category"      : 4,
     "age"           : "1.2 - 0.8 Milion Years Ago",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
-    "button"         : "./assets/Homo Erectus Tipic.png",
-    "image"         : "./assets/img-homo erectus tipic.png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Erectus%20Tipic.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-homo%20erectus%20tipic.png"
 },
 {
     "name"          : "Homo Erectus Progressive",
     "category"      : 5,
     "age"           : "0.8 - 0.2 Milion Years Ago",
     "description"   : "Progressive Homo erectus, a variant of Homo erectus, appeared about 1.5 million years ago in indonesia and persisted for hundreds of thousands of years. This subspecies shows important advances in anatomy and behavior. Progressive Homo erectus had a more graceful build than their earlier forms, with a slightly taller stature and a larger brain size. They demonstrated increased cognitive abilities and developed sophisticated tool-making techniques, creating fine stone tools such as bifacial hand axes. With increased adaptability and a better social structure, progressive Homo erectus expanded their territory across Africa, Asia and Europe. Their innovative behavior and progressive nature marked a significant milestone in human evolution.",
-    "button"        : "./assets/Homo Erectus Progressive.png",
-    "image"         : "./assets/img-homo erectus progressive.png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Erectus&20Progressive.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-homo%20erectus%20progressive.png"
 },
 {
     "name"          : "Bone Tools",
     "category"      : 6,
     "age"           : "94.000 Years Ago",
     "description"   : "Bone tools were instrumental in the technological advancements of early human societies. Crafted from animal bones, such as antlers, ribs, or tusks, these tools served various purposes. Bone awls were commonly used for sewing and leatherworking, while bone points and barbs were employed for hunting and fishing. Harpoons, needles, scrapers, and spatulas were also fashioned from bones, demonstrating the versatility of this material. These tools showcased the ingenuity and resourcefulness of our ancestors, who utilized every part of an animal to meet their needs. Prehistoric bone tools provided essential capabilities for survival, enabling humans to thrive and adapt in their ever-changing environments.",
-    "button"         : "./assets/Bone Tools.png",
-    "image"         : "./assets/img-bone tools.png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Bone%20Tools.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-bone%20tools.png"
 },
 {
     "name"          : "Settling",
     "category"      : 7,
     "age"           : "94.000 Years Ago",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
-    "button"         : "./assets/Settling.png",
-    "image"         : "./assets/img-settling.png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Settling.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-settling.png"
 },
 {
     "name"          : "Homo Floresiensis",
     "category"      : 8,
     "age"           : "94.000 - 15.000 Years Ago",
     "description"   : "Homo floresiensis, commonly known as the 'Hobbit' due to its diminutive stature, is an extinct hominin species that inhabited the Indonesian island of Flores around 15.000 to 94.000 years ago. With an average height of around 3.5 feet, they possessed a small brain size but displayed sophisticated behaviors. Homo floresiensis utilized stone tools, hunted small animals, and used fire. Their unique physical features, including long arms, large feet, and a small cranial capacity, have sparked debates regarding their evolutionary origins and relation to modern humans. The discovery of Homo floresiensis provides valuable insights into the diversity of human ancestors and the complexity of our evolutionary past.",
-    "button"         : "./assets/Homo Floresiensis.png",
-    "image"         : "./assets/img-homo floresiensis.png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Floresiensis.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-homo%20floresiensis.png"
 },
 {
     "name"          : "Homo Wajakensis",
     "category"      : 9,
     "age"           : "70.000 Years Ago",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
-    "button"         : "./assets/Homo Wajakensis.png",
-    "image"         : "./assets/img-homo wajakensis.png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Wajakensis.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-homo%20wajakensis.png"
 },
 {
     "name"          : "Stone Tools (Pre-Neolithic Era)",
     "category"      : 10,
     "age"           : "8.000 Years Ago",
     "description"   : "The Pre-Neolithic era was a transitional phase between the Paleolithic and Neolithic eras, spanning from approximately 8.000 years ago. During this time, humans continued their hunter-gatherer lifestyle but also witnessed significant shifts in their behavior and technology. Communities became more sedentary, establishing semi-permanent settlements near water sources. They developed new tool-making techniques, including microlith small, finely crafted stone tools as well as bone and antler implements. The Pre-Neolithic era marked a crucial phase of innovation and adaptation as humans further explored their environments, refined their survival strategies, and paved the way for the transformative changes that would occur in the Neolithic period.",
-    "button"         : "./assets/Stone Tools (Pre-Neolithic).png",
-    "image"         : "./assets/img-stone tools (pre-neolithic).png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Stone%20Tools%20(Pre-Neolithic).png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-stone%20tools%20(pre-neolithic).png"
 },
 {
     "name"          : "Homo Sapiens (Australo-Melanesid)",
     "category"      : 11,
     "age"           : "15.000 Years Ago",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
-    "button"        : "./assets/Homo Sapiens (Australo-Melanesid).png",
-    "image"         : "./assets/img-homo sapiens (australo-melanesid).png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Sapiens%20(Australo-Melanesid).png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-homo%20sapiens%20(australo-melanesid).png"
 },
 {
     "name"          : "Homo Sapiens (Mongoloid)",
     "category"      : 12,
     "age"           : "5.000 Years Ago",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
-    "button"         : "./assets/Homo Sapiens (Mongoloid).png"
+    "button"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Homo%20Sapiens%20(Mongoloid).png"
 },
 {
     "name"          : "Stone Tools (Neolithic Era)",
     "category"      : 13,
     "age"           : "5.000 Years Ago",
     "description"   : "Neolithic technology, which emerged around 5000 years agp, marked a significant advancement in human civilization. During this period, humans transitioned from a nomadic lifestyle to settled farming communities. The development of agriculture led to the domestication of plants and animals, allowing for a more stable and abundant food supply. Neolithic people crafted specialized tools, including polished stone axes, sickles, and pottery, which aided in farming, food storage, and trade. They also built permanent structures such as houses and megalithic monuments. The use of advanced technologies in agriculture, construction, and resource management during the Neolithic era laid the groundwork for the development of complex societies and marked a crucial step in human progress.",
-    "button"        : "./assets/Stone Tools (Neolithic).png",
-    "image"         : "./assets/img-stone tools (neolithic).png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Stone%20Tools%20(Neolithic).png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-stone%20tools%20(neolithic).png"
 },
 {
     "name"          : "Rock Art",
     "category"      : 14,
     "age"           : "5.000 Years Ago",
     "description"   : "Indonesia is rich in rock art, showcasing a diverse range of ancient artistic expressions. The country's rock art sites, scattered across various islands, provide glimpses into the cultural heritage of its early inhabitants. One notable site is the Maros-Pangkep region in Sulawesi, where hand stencils, animal depictions, and intricate motifs adorn the limestone cave walls. The rock art of East Kalimantan, particularly in the Kutai and Mahakam River regions, showcases anthropomorphic figures, boats, and ceremonial scenes. These rock art traditions, often created using natural pigments, reflect the beliefs, rituals, and daily lives of Indonesia's prehistoric communities, offering valuable insights into their rich cultural tapestry.",
-    "button"        : "./assets/Rock Art.png",
-    "image"         : "./assets/img-stone tools (neolithic).png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Rock%20Art.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-stone%20tools%20(neolithic).png"
 },
 {
     "name"          : "Food Producing",
     "category"      : 15,
     "age"           : "5.000 Years Ago",
     "description"   : "In prehistoric times, before the development of agriculture, early humans relied on food production methods centered around hunting and gathering. They were skilled hunters, tracking and capturing animals for meat, while also gathering wild plants, fruits, nuts, and roots. These activities required a deep understanding of their environment, seasonal patterns, and the behavior of various species. Over time, humans began experimenting with the cultivation of certain plants, leading to the domestication of crops and the transition to agricultural societies. This shift marked a significant milestone in human history, transforming the way we obtain and produce food, and laying the foundation for settled communities and the rise of civilizations.",
-    "button"        : "./assets/Food Producing.png",
-    "image"         : "./assets/img-food producing.png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Food%20Producing.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-food%20producing.png"
 },
 {
     "name"          : "Megalithic Tradition",
     "category"      : 16,
     "age"           : "3.000 Years Ago",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
-    "button"        : "./assets/Megalithic Era.png",
-    "image"         : "./assets/img-megalithic era.png"
+    "button"        : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/Megalithic%20Era.png",
+    "image"         : "https://github.com/rahfimuhammad/prehistoric/blob/main/assets/img-megalithic%20era.png"
 }
 ]
 }
