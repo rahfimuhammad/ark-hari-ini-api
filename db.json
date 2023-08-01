@@ -25,7 +25,7 @@
 {   
     "name"          : "Alat Batu (Paleolitik)",
     "category"      : 0,
-    "age"           : "1.8 Juta Tahun yang Lalu",
+    "age"           : "1.8 juta tahun yang lalu",
     "description"   : "Istilah paleolitik dalam alat batu merujuk pada tingkatan awal dari teknologi pembuatan dan penggunaan alat batu oleh manusia. Awalnya, manusia menggunakan alat batu secara incidental, yaitu memanfaatkan batuan-batuan alami di sekitarnya yang memiliki sisi tajaman. Kemudian, pada perkembangannya manusia mulai membentuk batuan-batuan alami tersebut dengan memecahnya menjadi serpih-serpih kecil. Pada fase terakhir dari teknologi paleolitik, manusia mulai mampu menghasilkan alat-alat batu dengan bentuk yang lebih spesifik, seperti kapak genggam, kapak perimbas, dan kapak penetak.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Paleolithic).png",
     "assets"        : "Public Domain"
@@ -33,7 +33,7 @@
 {   
     "name"          : "Nomaden",
     "category"      : 1,
-    "age"           : "1.8 Juta Tahun yang Lalu",
+    "age"           : "1.8 juta tahun yang lalu",
     "description"   : "Era kehidupan nomaden dikenal sebagai periode dalam sejarah manusia yang ditandai dengan cara hidup yang berpindah-pindah. Kelompok-kelompok manusia akan mendiami tempat yang cocok untuk berlindung dan cukup sumber daya alamnya, kemudian mereka akan berpindah ke tempat lain apabila sumber daya alam di daerah tersebut telah habis. Selain itu, perpindahan juga terpengaruh oleh pergantian musim. Kehidupan nomaden sangat bergantung pada pengetahuan manusia mengenai lanskap alam, navigasi, dan siklus musim. Era nomaden memainkan peran penting dalam membentuk budaya manusia, identitas, dan perkembangan jalur perdagangan awal.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Nomadic.png",
     "assets"        : "arc-today"
@@ -41,7 +41,7 @@
 {   
     "name"          : "Berburu dan Meramu",
     "category"      : 2,
-    "age"           : "1.8 Juta Tahun yang Lalu",
+    "age"           : "1.8 juta tahun yang lalu",
     "description"   : "Berburu dan mengumpulkan makanan adalah cara bertahan hidup manusia sebelum munculnya pertanian. Manusia berburu hewan untuk dimakan dan mengumpulkan tumbuhan, buah-buahan, kacang-kacangan, dan umbi-umbian yang dapat dimakan dari lingkungan. Komunitas pemburu-pengumpul ini mengandalkan pengetahuan mendalam mereka tentang tanah, musim, dan perilaku hewan untuk mempertahankan diri. Mereka menunjukkan hubungan yang mendalam dengan alam dan mempraktikkan pemanenan berkelanjutan untuk memastikan ketersediaan sumber daya. Gaya hidup ini memupuk kerja sama, struktur sosial egaliter, dan warisan budaya yang kaya saat mereka berbagi pengetahuan, keterampilan, dan tanggung jawab komunal, menjalin ikatan yang kuat dalam kelompok mereka.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Hunting%20and%20Gathering.png",
     "assets"        : "arc-today"
@@ -50,7 +50,7 @@
 {   
     "name"          : "Homo Erectus Arkaik",
     "category"      : 3,
-    "age"           : "1.8 - 0.75 Juta Tahun yang Lalu",
+    "age"           : "1.8 - 0.75 juta tahun yang lalu",
     "description"   : "Homo erectus arkaik adalah jenis pertama Homo erectus dalam rantai evolusinya. Temuan Homo erectus arkaik tertua berusia 1,8 juta tahun ditemukan di situs Bumiayu, Jawa Tengah. Secara fisik, Homo erectus arkaik memiliki struktur rangka yang tegak, tinggi sekitar 165 cm, dan volume otak sekitar 870 cc. Kelompok manusia awal di pulau Jawa ini hidup dalam rentang waktu 1,8 juta tahun hingga 0,75 juta tahun yang lalu. Mereka bertahan hidup di Pulau Jawa yang saat itu lingkungannya masih berupa rawa. Kehidupan Homo erectus arkaik disokong peralatan batu berupa alat serpih kecil dan memanfaatkan sumber daya alam di tepian-tepian sungai.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Archaic.png",
     "assets"        : "https://kemdikbud.go.id"
@@ -58,7 +58,7 @@
 {
     "name"          : "Homo Erectus Tipik",
     "category"      : 4,
-    "age"           : "0.75 - 0.25 Juta Tahun yang Lalu",
+    "age"           : "0.75 - 0.25 juta tahun yang lalu",
     "description"   : "Homo erectus tipic merupakan kelanjutan evolusi dari Homo erectus sebelumnya. Jenis Homo erectus ini adalah jenis yang paling banyak ditemukan di situs Sangiran, Jawa Tengah. Homo erectus tipic hidup dan berkembang dalam rentang waktu 0,75 - 0,25 juta tahun yang lalu. Berbeda dengan pendahulunya, Homo erectus yang satu ini memiliki volume otak yang lebih besar, yakni sekitar 1000 cc. Homo erectus tipik hidup di lingkungan pulau Jawa yang telah bertransformasi dari lingkungan rawa menjadi hutan terbuka. Mereka mulai mengembangkan teknologi alat-alat batu massif seperti kapak perimbas, kapak penetak, dan kapak genggam.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Tipic.png",
     "assets"        : "https://kemdikbud.go.id"
@@ -66,7 +66,7 @@
 {
     "name"          : "Homo Erectus Progresif",
     "category"      : 5,
-    "age"           : "0.25 - 0.15 Juta Tahun yang Lalu",
+    "age"           : "0.25 - 0.15 juta tahun yang lalu",
     "description"   : "Homo erectus progresif menjadi jenis terakhir dalam tingkatan evolusi Homo erectus di Indonesia. Homo erectus tipik juga memperlihatkan adanya perkembangan volume otak dalam rantai evolusi, yakni dari 1000 cc menjadi sekitar 1100 cc. Jenis Homo erectus ini hidup dalam rentang waktu yang relative lebih singkat dari Homo erectus terdahulu, 0,25 - 0,1 juta tahun yang lalu. Jejak-jejak kehidupan Homo erectus tipik cukup banyak tersebar di situs-situs Pulau Jawa, seperti Bengawan Solo, Sambungmacan, Ngandong, dan Ngawi.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Progressive.png",
     "assets"        : "https://kemdikbud.go.id"
@@ -74,7 +74,7 @@
 {
     "name"          : "Tinggal dan Menetap",
     "category"      : 6,
-    "age"           : "94.000 Tahun yang Lalu",
+    "age"           : "94.000 tahun yang lalu",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Settling.png",
     "assets"        : "Public Domain"
@@ -82,7 +82,7 @@
 {
     "name"          : "Homo Floresiensis",
     "category"      : 7,
-    "age"           : "94.000 - 15.000 Tahun yang Lalu",
+    "age"           : "94.000 - 15.000 tahun yang lalu",
     "description"   : "Homo floresiensis, commonly known as the 'Hobbit' due to its diminutive stature, is an extinct hominin species that inhabited the Indonesian island of Flores around 15.000 to 94.000 years ago. With an average height of around 3.5 feet, they possessed a small brain size but displayed sophisticated behaviors. Homo floresiensis utilized stone tools, hunted small animals, and used fire. Their unique physical features, including long arms, large feet, and a small cranial capacity, have sparked debates regarding their evolutionary origins and relation to modern humans. The discovery of Homo floresiensis provides valuable insights into the diversity of human ancestors and the complexity of our evolutionary past.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Floresiensis.png",
     "assets"        : "Public Domain"
@@ -90,7 +90,7 @@
 {
     "name"          : "Alat Tulang",
     "category"      : 8,
-    "age"           : "94.000 Tahun yang Lalu",
+    "age"           : "94.000 tahun yang lalu",
     "description"   : "Alat berbahan tulang menandai kemajuan manusia dalam penggunaan alat. Manusia mulai memanfaatkan bagian-bagian dari tulang hewan buruannya seperti tanduk, gading, atau pecahan-pecahan tulang yang memiliki sisi tajaman. Pemanfaatan tulang sebagai alat sangat bervariasi, biasanya tulang digunakan untuk pengerjaan pembuatan baju, pahat untuk membuat alat batu, atau sebagai alat serut. ",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Bone%20Tools.png",
     "assets"        : "Public Domain"
@@ -98,7 +98,7 @@
 {
     "name"          : "Homo Wajakensis",
     "category"      : 9,
-    "age"           : "70.000 Tahun yang Lalu",
+    "age"           : "70.000 tahun yang lalu",
     "description"   : "Homo wajakensis disebut sebagai Homo sapiens awal yang menghuni daratan Jawa, tepatnya di Wajak, Jawa Timur. Kehidupannya 70.000 tahun yang lalu terkuak berkat serangkaian penelitian dokter Belanda, Eugene Dubois. Para ahli berpendapat bahwa Homo sapiens awal tersebut merupakan Homo sapiens dari ras Australomelanesid, sub-ras Negroid. Namun, pendapat tersebut mendapat sanggahan dari peneliti Indonesia Prof. Teuku Jacob. Berdasarkan pengamatannya, Jacob berkesimpulan bahwa Homo wajakensis adalah hasil dari percampuran ras Australomelanesid dan Mongoloid, merujuk pada beberapa ciri mongoloid pada tulang dahi. Pendapat ini memberi indikasi bahwa interaksi lintas ras di Indonesia telah terjadi lebih awal dibanding dugaan sebelumnya.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Wajakensis.png",
     "assets"        : "Public Domain"
@@ -106,7 +106,7 @@
 {
     "name"          : "Seni Cadas",
     "category"      : 10,
-    "age"           : "5.000 Tahun yang Lalu",
+    "age"           : "5.000 tahun yang lalu",
     "description"   : "Indonesia is rich in rock art, showcasing a diverse range of ancient artistic expressions. The country's rock art sites, scattered across various islands, provide glimpses into the cultural heritage of its early inhabitants. One notable site is the Maros-Pangkep region in Sulawesi, where hand stencils, animal depictions, and intricate motifs adorn the limestone cave walls. The rock art of East Kalimantan, particularly in the Kutai and Mahakam River regions, showcases anthropomorphic figures, boats, and ceremonial scenes. These rock art traditions, often created using natural pigments, reflect the beliefs, rituals, and daily lives of Indonesia's prehistoric communities, offering valuable insights into their rich cultural tapestry.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Rock%20Art.png",
     "assets"        : "Public Domain"
@@ -114,7 +114,7 @@
 {
     "name"          : "Bercocok Tanam Tingkat Sederhana",
     "category"      : 11,
-    "age"           : "8.000 Tahun yang Lalu",
+    "age"           : "8.000 tahun yang lalu",
     "description"   : "The Pre-Neolithic era was a transitional phase between the Paleolithic and Neolithic eras, spanning from approximately 8.000 years ago. During this time, humans continued their hunter-gatherer lifestyle but also witnessed significant shifts in their behavior and technology. Communities became more sedentary, establishing semi-permanent settlements near water sources. They developed new tool-making techniques, including microlith small, finely crafted stone tools as well as bone and antler implements. The Pre-Neolithic era marked a crucial phase of innovation and adaptation as humans further explored their environments, refined their survival strategies, and paved the way for the transformative changes that would occur in the Neolithic period.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Early%20Food%20Producing.png",
     "assets"        : "arc-today"
@@ -122,7 +122,7 @@
 {
     "name"          : "Homo sapiens (Australo-Melanesid)",
     "category"      : 12,
-    "age"           : "15.000 Tahun yang Lalu",
+    "age"           : "15.000 tahun yang lalu",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Sapiens%20(Australo-Melanesid).png",
     "assets"        : "Public Domain"
@@ -130,7 +130,7 @@
 {
     "name"          : "Alat Batu (Pra-Neolitik)",
     "category"      : 13,
-    "age"           : "8.000 Tahun yang Lalu",
+    "age"           : "8.000 tahun yang lalu",
     "description"   : "The Pre-Neolithic era was a transitional phase between the Paleolithic and Neolithic eras, spanning from approximately 8.000 years ago. During this time, humans continued their hunter-gatherer lifestyle but also witnessed significant shifts in their behavior and technology. Communities became more sedentary, establishing semi-permanent settlements near water sources. They developed new tool-making techniques, including microlith small, finely crafted stone tools as well as bone and antler implements. The Pre-Neolithic era marked a crucial phase of innovation and adaptation as humans further explored their environments, refined their survival strategies, and paved the way for the transformative changes that would occur in the Neolithic period.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Pre-Neolithic).png",
     "assets"        : "arc-today"
@@ -138,7 +138,7 @@
 {
     "name"          : "Alat Batu (Neolitik)",
     "category"      : 14,
-    "age"           : "5.000 Tahun yang Lalu",
+    "age"           : "5.000 tahun yang lalu",
     "description"   : "Neolithic technology, which emerged around 5000 years agp, marked a significant advancement in human civilization. During this period, humans transitioned from a nomadic lifestyle to settled farming communities. The development of agriculture led to the domestication of plants and animals, allowing for a more stable and abundant food supply. Neolithic people crafted specialized tools, including polished stone axes, sickles, and pottery, which aided in farming, food storage, and trade. They also built permanent structures such as houses and megalithic monuments. The use of advanced technologies in agriculture, construction, and resource management during the Neolithic era laid the groundwork for the development of complex societies and marked a crucial step in human progress.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Neolithic).png",
     "assets"        : "Public Domain"
@@ -146,7 +146,7 @@
 {
     "name"          : "Bercocok Tanam Tingkat Lanjut",
     "category"      : 15,
-    "age"           : "5.000 Tahun yang Lalu",
+    "age"           : "5.000 tahun yang lalu",
     "description"   : "In prehistoric times, before the development of agriculture, early humans relied on food production methods centered around hunting and gathering. They were skilled hunters, tracking and capturing animals for meat, while also gathering wild plants, fruits, nuts, and roots. These activities required a deep understanding of their environment, seasonal patterns, and the behavior of various species. Over time, humans began experimenting with the cultivation of certain plants, leading to the domestication of crops and the transition to agricultural societies. This shift marked a significant milestone in human history, transforming the way we obtain and produce food, and laying the foundation for settled communities and the rise of civilizations.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Food%20Producing.png",
     "assets"        : "Public Domain"
@@ -154,7 +154,7 @@
 {
     "name"          : "Homo Sapiens (Mongoloid)",
     "category"      : 16,
-    "age"           : "5.000 Tahun yang Lalu",
+    "age"           : "5.000 tahun yang lalu",
     "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Mongoloid.png",
     "assets"        : "Public Domain"
@@ -162,7 +162,7 @@
 {
     "name"          : "Megalitik",
     "category"      : 17,
-    "age"           : "3.000 Tahun yang Lalu",
+    "age"           : "3.000 tahun yang lalu",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Megalithic.png",
     "assets"        : "Public Domain"
@@ -170,7 +170,7 @@
 {
     "name"          : "Peralatan Logam",
     "category"      : 18,
-    "age"           : "3.000 Tahun yang Lalu",
+    "age"           : "3.000 tahun yang lalu",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
     "link"          : "https://id.pngtree.com/so/ilustrasi",
@@ -179,7 +179,7 @@
 {
     "name"          : "Peralatan Tembikar",
     "category"      : 19,
-    "age"           : "3.000 Tahun yang Lalu",
+    "age"           : "3.000 tahun yang lalu",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
     "link"          : "https://id.pngtree.com/so/ilustrasi",
