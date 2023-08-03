@@ -82,7 +82,7 @@
     "name"          : "Homo Floresiensis",
     "category"      : 7,
     "age"           : "94.000 - 15.000 tahun yang lalu",
-    "description"   : "Homo floresiensis, commonly known as the 'Hobbit' due to its diminutive stature, is an extinct hominin species that inhabited the Indonesian island of Flores around 15.000 to 94.000 years ago. With an average height of around 3.5 feet, they possessed a small brain size but displayed sophisticated behaviors. Homo floresiensis utilized stone tools, hunted small animals, and used fire. Their unique physical features, including long arms, large feet, and a small cranial capacity, have sparked debates regarding their evolutionary origins and relation to modern humans. The discovery of Homo floresiensis provides valuable insights into the diversity of human ancestors and the complexity of our evolutionary past.",
+    "description"   : "Homo floresiensis merupakan spesies hominin yang telah punah dan ditemukan di pulau Flores, Indonesia. Mereka hidup sekitar 40.000 hingga 94.000 tahun yang lalu. Homo Floresiensis seringkali disebut sebagai “Hobbit” karena tinggi badannya hanya sekitar 100 cm dan kapasitas otaknya yang lebih kecil dibanding manusia modern. Manusia Hobbit ini hidup di gua-gua alami dan bertahan hidup dengan teknologi peralatan sederhana. Sisa-sisa kebudayaannya ditemukan di gua Liang Bua, Flores, pada tahun 2003. Penemuan ini memberikan wawasan berharga tentang sejarah evolusi manusia dan adaptasi unik manusia prasejarah terhadap lingkungan di Indonesia.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Floresiensis.png",
     "assets"        : "Public Domain"
 },
@@ -105,7 +105,7 @@
 {
     "name"          : "Seni Cadas",
     "category"      : 10,
-    "age"           : "5.000 tahun yang lalu",
+    "age"           : "15.000 tahun yang lalu",
     "description"   : "Seni cadas adalah sisa kebudayaan manusia prasejarah berupa gambar-gambar yang dilukiskan pada media batu, biasanya ada di dinding-dinding gua. Gambar yang terlukis memiliki bentuk yang beragam, dimulai dari bentuk-bentuk geometris sederhana hingga gambar yang lebih kompleks seperti perahu, hewan, dan manusia. Penelitian arkeologi mengungkapkan bahwa gambar-gambar cadas memiliki makna yang beragam, seperti untuk tujuan ritual kepercayaan, hubungan social manusia, atau hubungan manusia dengan lanskap alam di sekitarnya. Periode munculnya kebudayaan seni cadas ini masih menjadi misteri, penelitian arkeologi setiap tahunnya menemukan bukti baru dari usia gambar cadas yang ada di Indonesia.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Rock%20Art.png",
     "assets"        : "Public Domain"
@@ -113,8 +113,8 @@
 {
     "name"          : "Bercocok Tanam Tingkat Sederhana",
     "category"      : 11,
-    "age"           : "8.000 tahun yang lalu",
-    "description"   : "The Pre-Neolithic era was a transitional phase between the Paleolithic and Neolithic eras, spanning from approximately 8.000 years ago. During this time, humans continued their hunter-gatherer lifestyle but also witnessed significant shifts in their behavior and technology. Communities became more sedentary, establishing semi-permanent settlements near water sources. They developed new tool-making techniques, including microlith small, finely crafted stone tools as well as bone and antler implements. The Pre-Neolithic era marked a crucial phase of innovation and adaptation as humans further explored their environments, refined their survival strategies, and paved the way for the transformative changes that would occur in the Neolithic period.",
+    "age"           : "15.000 tahun yang lalu",
+    "description"   : "Cara manusia bertahan hidup mengalami perkembangan dari waktu ke waktu. Masa bercocok tanam tingkat sederhana adalah fase awal dari pemahaman manusia untuk menghasilkan maknanannya sendiri. Pada masa ini, manusia prasejarah masih berburu dan mengumpulkan makanan, namun juga sudah memikirkan cara untuk mengolah sumber daya alam di sekitarnya untuk menyediakan persediaan makanan. Mereka mulai menanam Kembali tunas-tunas tumbuhan yang dikumpulkan untuk dipanen kemudian hari. Selain itu, fase awal masa bercocok tanam juga ditandai dengan pengetahuan dasar manusia untuk men-domestikasi hewan.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Early%20Food%20Producing.png",
     "assets"        : "arc-today"
 },
@@ -122,7 +122,7 @@
     "name"          : "Homo sapiens (Australo-Melanesid)",
     "category"      : 12,
     "age"           : "15.000 tahun yang lalu",
-    "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "description"   : "Kehidupan Homo sapiens di Indonesia telah dimulai sejak 70.000 tahun yang lalu, dibuktikan dengan temuan Homo Wajakensis di Jawa Tengah. Seperti yang kita ketahui, Homo sapiens di dunia terbagi ke dalam beberapa jenis ras, mengacu pada ciri fisiknya. Di Indonesia, persebaran Homo Sapiens pada awalnya didominasi oleh ras Australo-Melanesid, sub ras Negroid yang kita kenal sebagai suku Aborigin atau orang Papua di masa sekarang. Persebaran ras ini mendominasi Indonesia pada periode 15.000 tahun yang lalu, dibuktikan dengan temuan rangka di banyak situs seperti Pegunungan Kendeng Utara, Pegunungan Utara Bogor, Pegunungan Karst Sewu, Pegunungan Meratus di Kalimantan Selatan, Gua Harimau di Sumatera Selatan, dan Pesisir timur Sumatera Utara.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Sapiens%20(Australo-Melanesid).png",
     "assets"        : "Public Domain"
 },
