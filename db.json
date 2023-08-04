@@ -16,9 +16,10 @@
     "Alat Batu (Neolitik)",
     "Bercocok Tanam Tingkat Lanjut",
     "Homo Sapiens (Mongoloid)",
-     "Megalitik",
-    "Peralatan Logam",
-    "Peralatan Tembikar"
+    "Peralatan Tembikar",
+    "Megalitik",
+    "Peralatan Logam"
+    
 ],
 "prehistoric": [
 {   
@@ -159,9 +160,18 @@
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Mongoloid.png",
     "assets"        : "Public Domain"
 },
+    {
+    "name"          : "Peralatan Tembikar",
+    "category"      : 17,
+    "age"           : "3.000 tahun yang lalu",
+    "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
+    "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
+    "link"          : "https://id.pngtree.com/so/ilustrasi",
+    "assets"        : "Pngtree"
+}
 {
     "name"          : "Megalitik",
-    "category"      : 17,
+    "category"      : 18,
     "age"           : "3.000 tahun yang lalu",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Megalithic.png",
@@ -169,19 +179,10 @@
 },
 {
     "name"          : "Peralatan Logam (Paleometalik)",
-    "category"      : 18,
+    "category"      : 19,
     "age"           : "3.000 tahun yang lalu",
     "description"   : "Teknologi peralatan berbahan logam dimulai sekitar 4000 tahun yang lalu. Temuan arkeologis menunjukkan adanya keterampilan manusia prasejarah menciptakan peralatan logam seperti kapak perunggu melalui proses peleburan dan penempaan. Teknologi ini memengaruhi perkembangan alat-alat dan budaya di Nusantara pada masa selanjutnya. Pemanfaatan logam memungkinkan pembuatan alat yang lebih kuat dan tajam, serta mempengaruhi interaksi perdagangan dan sosial antara komunitas-komunitas prasejarah di kepulauan-kepulauan Indonesia.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Bronze%20Age.png",
-    "link"          : "https://id.pngtree.com/so/ilustrasi",
-    "assets"        : "Pngtree"
-},
-{
-    "name"          : "Peralatan Tembikar",
-    "category"      : 19,
-    "age"           : "3.000 tahun yang lalu",
-    "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
-    "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
     "link"          : "https://id.pngtree.com/so/ilustrasi",
     "assets"        : "Pngtree"
 }
