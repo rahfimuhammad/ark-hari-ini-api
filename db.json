@@ -41,7 +41,7 @@
     "name"          : "Berburu dan Mengumpulkan Makanan",
     "category"      : 2,
     "age"           : "1.8 juta tahun yang lalu",
-    "description"   : "Berburu dan mengumpulkan makanan adalah cara bertahan hidup manusia sebelum munculnya pertanian. Manusia berburu hewan untuk dimakan dan mengumpulkan tumbuhan, buah-buahan, kacang-kacangan, dan umbi-umbian yang dapat dimakan dari lingkungan. Komunitas pemburu-pengumpul ini mengandalkan pengetahuan mendalam mereka tentang tanah, musim, dan perilaku hewan untuk mempertahankan diri. Mereka menunjukkan hubungan yang mendalam dengan alam dan mempraktikkan pemanenan berkelanjutan untuk memastikan ketersediaan sumber daya. Gaya hidup ini memupuk kerja sama, struktur sosial egaliter, dan warisan budaya yang kaya saat mereka berbagi pengetahuan, keterampilan, dan tanggung jawab komunal, menjalin ikatan yang kuat dalam kelompok mereka.",
+    "description"   : "Berburu dan mengumpulkan makanan adalah cara bertahan hidup manusia sebelum munculnya pertanian. Manusia berburu hewan untuk dimakan dan mengumpulkan tumbuhan, buah-buahan, kacang-kacangan, dan umbi-umbian yang dapat dimakan dari lingkungan. Komunitas pemburu-pengumpul ini mengandalkan pengetahuan mendalam mereka tentang tanah, musim, dan perilaku hewan untuk mempertahankan diri. Mereka menunjukkan hubungan yang mendalam dengan alam untuk memastikan ketersediaan sumber daya. Gaya hidup ini memupuk kerja sama, struktur sosial egaliter, dan warisan budaya yang kaya saat mereka berbagi pengetahuan, keterampilan, dan tanggung jawab komunal, menjalin ikatan yang kuat dalam kelompok mereka.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Hunting%20and%20Gathering.png",
     "assets"        : "arc-today"
 },
@@ -74,7 +74,7 @@
     "name"          : "Tinggal dan Menetap",
     "category"      : 6,
     "age"           : "94.000 tahun yang lalu",
-    "description"   : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fuscepulvinar eu tellus quis sodales. Maecenas iaculis ipsum ut erat porttitor varius.  Etiam erat lacus,  semper at risus non, efficitur rhoncus erat. Vestibulum  condimentum ipsum eu metus tincidunt laoreet. Etiam pretium mattis elit  eget pellentesque. Sed tristique auctor justo lobortis dignissim. Nulla ac interdum nunc, ut venenatis augue. Morbi ac dapibus enim. Maecenas sollicitudin dolor ipsum, non accumsan nisl fermentum mattis. Nulla facilisi. Nulla vel luctus lacus, eget commodo ante. Vestibulum tempus viverra tellus, ut convallis neque faucibus dictum. Suspendisse ultrices  sem ac semper dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus.",
+    "description"   : "Manusia prasejarah awal awalnya hidup secara nomaden, mengumpulkan makanan dan berburu untuk bertahan hidup. Namun, seiring dengan berkembangnya pengetahuan manusia terhadap alam, cara hidup nomaden secara perlahan mulai di tinggalkan. Pada awalnya, manusia mulai tinggal dan menetap di gua-gua alami yang dekat dengan sumber daya alam. Mereka tinggal dalam kurun waktu tertentu (temporer), bergantung pada ketersediaan sumber daya alam di sekitarnya. Cara hidup semacam ini terus mengalami perkembangan seiring dengan berkembangnya kemampuan manusia untuk bertani dan domestikasi hewan. Barulah pada masa tersebut, manusia mulai tinggal di suatu tempat secara permanen dengan membangun permukimannya sendiri.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Settling.png",
     "assets"        : "Public Domain"
 },
@@ -147,7 +147,7 @@
     "name"          : "Bercocok Tanam Tingkat Lanjut",
     "category"      : 15,
     "age"           : "5.000 tahun yang lalu",
-    "description"   : "In prehistoric times, before the development of agriculture, early humans relied on food production methods centered around hunting and gathering. They were skilled hunters, tracking and capturing animals for meat, while also gathering wild plants, fruits, nuts, and roots. These activities required a deep understanding of their environment, seasonal patterns, and the behavior of various species. Over time, humans began experimenting with the cultivation of certain plants, leading to the domestication of crops and the transition to agricultural societies. This shift marked a significant milestone in human history, transforming the way we obtain and produce food, and laying the foundation for settled communities and the rise of civilizations.",
+    "description"   : "Masa bercocok tanam tingkat lanjut ditandai dengan revolusi pertanian yang mengubah cara manusia menghasilkan sumber makanannya. Pada masa ini, manusia mulai mengenal pengetahuan pembibitan, irigasi, dan rotasi jenis tanaman untuk mencapai hasil panen yang besar dan konsisten. Perkembangan pengetahuan manusia pada masa ini juga mendorong mereka untuk bermukim secara tetap di daerah-daerah dengan lahan potensial untuk pertanian sembari terus mendomestikasi hewan-hewan untuk diternak.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Food%20Producing.png",
     "assets"        : "Public Domain"
 },
