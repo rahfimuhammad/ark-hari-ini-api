@@ -12,11 +12,11 @@
     "Seni Cadas",
     "Bercocok Tanam Tingkat Sederhana",
     "Homo Sapiens (Australo-Melanesid)",
+    "Peralatan Tembikar",
     "Alat Batu (Pra-Neolitik)",
     "Alat Batu (Neolitik)",
     "Bercocok Tanam Tingkat Lanjut",
     "Homo Sapiens (Mongoloid)",
-    "Peralatan Tembikar",
     "Megalitik",
     "Peralatan Logam"
     
@@ -137,8 +137,17 @@
     "assets"        : "arc-today"
 },
 {
-    "name"          : "Alat Batu (Neolitik)",
+    "name"          : "Peralatan Tembikar",
     "category"      : 14,
+    "age"           : "4.000 tahun yang lalu",
+    "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
+    "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
+    "link"          : "https://id.pngtree.com/so/ilustrasi",
+    "assets"        : "Pngtree"
+},
+{
+    "name"          : "Alat Batu (Neolitik)",
+    "category"      : 15,
     "age"           : "4.000 tahun yang lalu",
     "description"   : "Alat batu pada masa neolitik dicirikan dengan alat-alat massif yang diasah pada permukaannya. Pengasahan ini menghasilkan permukaan batu yang halus dan bentuk yang presisi. Beberapa jenis alat batu neolitik adalah belincung, beliung, pahat, dan kapak. Sebagian besar peralatan tersebut identik dengan kegiatan pertanian, seperti beiung dan belincung yang digunakan untuk mencangkul tanah-tanah di lahan pertanian.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Neolithic).png",
@@ -146,7 +155,7 @@
 },
 {
     "name"          : "Bercocok Tanam Tingkat Lanjut",
-    "category"      : 15,
+    "category"      : 16,
     "age"           : "4.000 tahun yang lalu",
     "description"   : "Masa bercocok tanam tingkat lanjut ditandai dengan revolusi pertanian yang mengubah cara manusia menghasilkan sumber makanannya. Pada masa ini, manusia mulai mengenal pengetahuan pembibitan, irigasi, dan rotasi jenis tanaman untuk mencapai hasil panen yang besar dan konsisten. Perkembangan pengetahuan manusia pada masa ini juga mendorong mereka untuk bermukim secara tetap di daerah-daerah dengan lahan potensial untuk pertanian sembari terus mendomestikasi hewan-hewan untuk diternak.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Food%20Producing.png",
@@ -154,20 +163,11 @@
 },
 {
     "name"          : "Homo Sapiens (Mongoloid)",
-    "category"      : 16,
+    "category"      : 17,
     "age"           : "4.000 tahun yang lalu",
     "description"   : "Keragaman ras yang ada di Indonesia hari ini tidak terlepas dari migrasi ras Mongoloid sekitar 4000 tahun yang lalu. Kelompok manusia ini sering disebut sebagai bangsa Austronesia karena menuturkan bahasa rumpun Austronesia. Mereka bermigrasi secara bertahap sejak 4000 tahun yang lalu dan menempati kepulauan-kepulauan yang menjadi Indonesia hari ini. Orang-orang Austronesia dikenal sebagai pelaut yang handal, mereka mengarungi lautan dengan perahu untuk mencapai tempat-tempat yang potensial. Migrasi besar-besaran ini tidak hanya membawa kelompok manusianya saja, namun juga membawa teknologi pertanian, peternakan, dan peralatan yang sudah maju.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Mongoloid.png",
     "assets"        : "Public Domain"
-},
-    {
-    "name"          : "Peralatan Tembikar",
-    "category"      : 17,
-    "age"           : "4.000 tahun yang lalu",
-    "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
-    "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
-    "link"          : "https://id.pngtree.com/so/ilustrasi",
-    "assets"        : "Pngtree"
 },
 {
     "name"          : "Megalitik",
