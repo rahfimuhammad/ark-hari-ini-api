@@ -139,7 +139,7 @@
 {
     "name"          : "Alat Batu (Neolitik)",
     "category"      : 14,
-    "age"           : "5.000 tahun yang lalu",
+    "age"           : "4.000 tahun yang lalu",
     "description"   : "Alat batu pada masa neolitik dicirikan dengan alat-alat massif yang diasah pada permukaannya. Pengasahan ini menghasilkan permukaan batu yang halus dan bentuk yang presisi. Beberapa jenis alat batu neolitik adalah belincung, beliung, pahat, dan kapak. Sebagian besar peralatan tersebut identik dengan kegiatan pertanian, seperti beiung dan belincung yang digunakan untuk mencangkul tanah-tanah di lahan pertanian.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Neolithic).png",
     "assets"        : "Public Domain"
@@ -147,7 +147,7 @@
 {
     "name"          : "Bercocok Tanam Tingkat Lanjut",
     "category"      : 15,
-    "age"           : "5.000 tahun yang lalu",
+    "age"           : "4.000 tahun yang lalu",
     "description"   : "Masa bercocok tanam tingkat lanjut ditandai dengan revolusi pertanian yang mengubah cara manusia menghasilkan sumber makanannya. Pada masa ini, manusia mulai mengenal pengetahuan pembibitan, irigasi, dan rotasi jenis tanaman untuk mencapai hasil panen yang besar dan konsisten. Perkembangan pengetahuan manusia pada masa ini juga mendorong mereka untuk bermukim secara tetap di daerah-daerah dengan lahan potensial untuk pertanian sembari terus mendomestikasi hewan-hewan untuk diternak.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Food%20Producing.png",
     "assets"        : "Public Domain"
@@ -155,7 +155,7 @@
 {
     "name"          : "Homo Sapiens (Mongoloid)",
     "category"      : 16,
-    "age"           : "5.000 tahun yang lalu",
+    "age"           : "4.000 tahun yang lalu",
     "description"   : "Keragaman ras yang ada di Indonesia hari ini tidak terlepas dari migrasi ras Mongoloid sekitar 4000 tahun yang lalu. Kelompok manusia ini sering disebut sebagai bangsa Austronesia karena menuturkan bahasa rumpun Austronesia. Mereka bermigrasi secara bertahap sejak 4000 tahun yang lalu dan menempati kepulauan-kepulauan yang menjadi Indonesia hari ini. Orang-orang Austronesia dikenal sebagai pelaut yang handal, mereka mengarungi lautan dengan perahu untuk mencapai tempat-tempat yang potensial. Migrasi besar-besaran ini tidak hanya membawa kelompok manusianya saja, namun juga membawa teknologi pertanian, peternakan, dan peralatan yang sudah maju.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Mongoloid.png",
     "assets"        : "Public Domain"
@@ -163,7 +163,7 @@
     {
     "name"          : "Peralatan Tembikar",
     "category"      : 17,
-    "age"           : "3.000 tahun yang lalu",
+    "age"           : "4.000 tahun yang lalu",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
     "link"          : "https://id.pngtree.com/so/ilustrasi",
@@ -172,15 +172,15 @@
 {
     "name"          : "Megalitik",
     "category"      : 18,
-    "age"           : "3.000 tahun yang lalu",
-    "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
+    "age"           : "4.000 tahun yang lalu",
+    "description"   : "Istilah megalitik di Indonesia secara umum merujuk pada tradisi pembangunan struktur batu besar oleh masyarakat prasejarah. Situs-situs megalitik ini tersebar di seluruh kepulauan, menampilkan kreativitas dan keterampilan teknis dari kelompok-kelompok manusia. Pembangunan struktur-struktur tersebut biasanya berkaitan dengan ritual pemakaman, keagamaan, dan sosial. Beberapa contoh struktur megalitik di Indonesia antara lain adalah punden berundak di Nias, patung-patung di lembah Lore, dan Batu Gantung di Sulawesi Selatan. Situs struktur batu-batu besar di Indonesia ini juga menunjukkan adanya sistem sosial masyarakat prasejarah yang kompak.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Megalithic.png",
     "assets"        : "Public Domain"
 },
 {
     "name"          : "Peralatan Logam (Paleometalik)",
     "category"      : 19,
-    "age"           : "3.000 tahun yang lalu",
+    "age"           : "4.000 tahun yang lalu",
     "description"   : "Teknologi peralatan berbahan logam dimulai sekitar 4000 tahun yang lalu. Temuan arkeologis menunjukkan adanya keterampilan manusia prasejarah menciptakan peralatan logam seperti kapak perunggu melalui proses peleburan dan penempaan. Teknologi ini memengaruhi perkembangan alat-alat dan budaya di Nusantara pada masa selanjutnya. Pemanfaatan logam memungkinkan pembuatan alat yang lebih kuat dan tajam, serta mempengaruhi interaksi perdagangan dan sosial antara komunitas-komunitas prasejarah di kepulauan-kepulauan Indonesia.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Bronze%20Age.png",
     "link"          : "https://id.pngtree.com/so/ilustrasi",
