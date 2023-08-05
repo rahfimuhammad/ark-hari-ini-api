@@ -128,22 +128,22 @@
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Sapiens%20(Australo-Melanesid).png",
     "assets"        : "Public Domain"
 },
-{
-    "name"          : "Alat Batu (Pra-Neolitik)",
-    "category"      : 13,
-    "age"           : "8.000 tahun yang lalu",
-    "description"   : "Masa pra-neolitik adalah masa peralihan dari teknologi alat batu yang sederhana menuju teknologi alat yang lebih maju. Alat-alat batu masa pra-neolitik memperlihatkan bentuk-bentuk alat yang lebih spesifik untuk mencapai tujuan tertentu, seperti mata panah, lancipan, atau serpih-bilah. Pemahaman manusia untuk mencapai tingkatan teknologi ini berbeda-beda pada setiap kebudayaan, namun paling tidak temuan-temuan arkeologis yang berkaitan dengan teknologi pra-neolitik umumnya dimulai pada periode 8000 tahun yang lalu. ",
-    "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Pre-Neolithic).png",
-    "assets"        : "arc-today"
-},
-{
+    {
     "name"          : "Peralatan Tembikar",
-    "category"      : 14,
+    "category"      : 13,
     "age"           : "4.000 tahun yang lalu",
     "description"   : "The megalithic tradition refers to the construction of massive stone structures by prehistoric societies. These impressive monuments, found in various parts of the world, served diverse purposes and exhibited remarkable engineering skills. Megaliths were often used for burial sites, religious ceremonies, or astronomical observations. Examples include stone circles, dolmens, menhirs, and tombs. These structures were built by moving and arranging large stones, sometimes weighing several tons, using simple tools and techniques. The megalithic tradition highlights the ingenuity and cultural significance of ancient societies, offering glimpses into their beliefs, social organization, and architectural prowess. These enduring monuments stand as enduring testaments to the achievements and enduring legacies of our prehistoric ancestors.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
     "link"          : "https://id.pngtree.com/so/ilustrasi",
     "assets"        : "Pngtree"
+},
+{
+    "name"          : "Alat Batu (Pra-Neolitik)",
+    "category"      : 14,
+    "age"           : "8.000 tahun yang lalu",
+    "description"   : "Masa pra-neolitik adalah masa peralihan dari teknologi alat batu yang sederhana menuju teknologi alat yang lebih maju. Alat-alat batu masa pra-neolitik memperlihatkan bentuk-bentuk alat yang lebih spesifik untuk mencapai tujuan tertentu, seperti mata panah, lancipan, atau serpih-bilah. Pemahaman manusia untuk mencapai tingkatan teknologi ini berbeda-beda pada setiap kebudayaan, namun paling tidak temuan-temuan arkeologis yang berkaitan dengan teknologi pra-neolitik umumnya dimulai pada periode 8000 tahun yang lalu. ",
+    "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Pre-Neolithic).png",
+    "assets"        : "arc-today"
 },
 {
     "name"          : "Alat Batu (Neolitik)",
