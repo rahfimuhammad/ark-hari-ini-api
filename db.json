@@ -82,7 +82,7 @@
 {
     "name"          : "Homo Floresiensis",
     "category"      : 7,
-    "age"           : "94.000 - 15.000 tahun yang lalu",
+    "age"           : "94.000 - 40.000 tahun yang lalu",
     "description"   : "Homo floresiensis merupakan spesies hominin yang telah punah dan ditemukan di pulau Flores, Indonesia. Mereka hidup sekitar 40.000 hingga 94.000 tahun yang lalu. Homo Floresiensis seringkali disebut sebagai “Hobbit” karena tinggi badannya hanya sekitar 100 cm dan kapasitas otaknya yang lebih kecil dibanding manusia modern. Manusia Hobbit ini hidup di gua-gua alami dan bertahan hidup dengan teknologi peralatan sederhana. Sisa-sisa kebudayaannya ditemukan di gua Liang Bua, Flores, pada tahun 2003. Penemuan ini memberikan wawasan berharga tentang sejarah evolusi manusia dan adaptasi unik manusia prasejarah terhadap lingkungan di Indonesia.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Floresiensis.png",
     "assets"        : "Public Domain"
@@ -90,24 +90,24 @@
 {
     "name"          : "Alat Tulang",
     "category"      : 8,
-    "age"           : "94.000 tahun yang lalu",
+    "age"           : "70.000 tahun yang lalu",
     "description"   : "Alat berbahan tulang menandai kemajuan manusia dalam penggunaan alat. Manusia mulai memanfaatkan bagian-bagian dari tulang hewan buruannya seperti tanduk, gading, atau pecahan-pecahan tulang yang memiliki sisi tajaman. Pemanfaatan tulang sebagai alat sangat bervariasi, biasanya tulang digunakan sebagai jarum, ujung tombak, pahat, atau alat serut.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Bone%20Tools.png",
     "assets"        : "Public Domain"
 },
 {
-    "name"          : "Homo Wajakensis",
+    "name"          : "Homo Sapiens",
     "category"      : 9,
     "age"           : "70.000 tahun yang lalu",
-    "description"   : "Homo wajakensis disebut sebagai Homo sapiens awal yang menghuni daratan Jawa karena kemiripannya dengan bentuk manusia modern di masa kini. Kehidupannya 70.000 tahun yang lalu terkuak berkat serangkaian penelitian dokter Belanda, Eugene Dubois di Wajak, Jawa Timur. Para ahli berpendapat bahwa Homo sapiens awal tersebut merupakan Homo sapiens dari ras Australomelanesid, sub-ras Negroid. Namun, pendapat tersebut mendapat sanggahan dari peneliti Indonesia Prof. Teuku Jacob. Berdasarkan pengamatannya, Jacob berkesimpulan bahwa Homo wajakensis adalah hasil dari percampuran ras Australomelanesid dan Mongoloid, merujuk pada beberapa ciri mongoloid pada tulang dahi. Pendapat ini memberi indikasi bahwa interaksi lintas ras di Indonesia telah terjadi lebih awal dibanding dugaan sebelumnya.",
+    "description"   : "Kehidupan Homo sapiens awal di Indonesia terungkap melalui hasil penelitian terhadap temuan gigi di Gua Lida Ajer, Sumatera Barat. Penelitian tersebut secara yakin memastikan bahwa temuan gigi tersebut adalah milik dari Homo sapiens yang hidup dalam rentang waktu 63.000-73.000 tahun yang lalu. Sementara itu, jauh sebelum terungkapnya kehidupan manusia di Lida Ajer, temuan rangka di Wajak, Jawa Timur lebih dulu mengungkap kehadiran Homo Sapiens di Indonesia. Temuan rangka yang disebut Homo Wajakensis diyakini sebagai manusia modern awal yang menghuni pulau Jawa sekitar 70.000 tahun yang lalu. Para ahli berpendapat bahwa Homo sapiens awal yang hadir di Indonesia merupakan Homo sapiens dari ras Australomelanesid, sub-ras Negroid. Kehidupan ras ini kemudian menyebar di seluruh kepulauan Indonesia hingga 15.000 tahun yang lalu.",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Wajakensis.png",
     "assets"        : "Public Domain"
 },
 {
-    "name"          : "Seni Cadas",
+    "name"          : "Gambar Cadas",
     "category"      : 10,
-    "age"           : "15.000 tahun yang lalu",
-    "description"   : "Seni cadas adalah sisa kebudayaan manusia prasejarah berupa gambar-gambar yang dilukiskan pada media batu, biasanya ada di dinding-dinding gua. Gambar yang terlukis memiliki bentuk yang beragam, dimulai dari bentuk-bentuk geometris sederhana hingga gambar yang lebih kompleks seperti perahu, hewan, dan manusia. Penelitian arkeologi mengungkapkan bahwa gambar-gambar cadas memiliki makna yang beragam, seperti untuk tujuan ritual kepercayaan, hubungan social manusia, atau hubungan manusia dengan lanskap alam di sekitarnya. Periode munculnya kebudayaan seni cadas ini masih menjadi misteri, penelitian arkeologi setiap tahunnya menemukan bukti baru dari usia gambar cadas yang ada di Indonesia.",
+    "age"           : "40.000 tahun yang lalu",
+    "description"   : "Gambar cadas adalah sisa kebudayaan manusia prasejarah berupa gambar-gambar yang dilukiskan pada media batu, biasanya ada di dinding-dinding gua. Gambar yang terlukis memiliki bentuk yang beragam, dimulai dari bentuk-bentuk geometris sederhana hingga gambar yang lebih kompleks seperti perahu, hewan, dan manusia. Penelitian arkeologi mengungkapkan bahwa gambar-gambar cadas memiliki makna yang beragam, seperti untuk tujuan ritual kepercayaan, hubungan sosial manusia, atau hubungan manusia dengan lanskap alam di sekitarnya. Penelitian terbaru mengungkapkan bahwa gambar cadas tertua di Indonesia ada di Sangkulirang, Kalimantan Timur, berusia 40.000 tahun. Gambar cadas tersebut memiliki motif hewan banteng liar.",
     "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Rock%20Art.png",
     "assets"        : "Public Domain"
 },
@@ -140,8 +140,8 @@
 {
     "name"          : "Alat Batu (Pra-Neolitik)",
     "category"      : 14,
-    "age"           : "8.000 tahun yang lalu",
-    "description"   : "Masa pra-neolitik adalah masa peralihan dari teknologi alat batu yang sederhana menuju teknologi alat yang lebih maju. Alat-alat batu masa pra-neolitik memperlihatkan bentuk-bentuk alat yang lebih spesifik untuk mencapai tujuan tertentu, seperti mata panah, lancipan, atau serpih-bilah. Pemahaman manusia untuk mencapai tingkatan teknologi ini berbeda-beda pada setiap kebudayaan, namun paling tidak temuan-temuan arkeologis yang berkaitan dengan teknologi pra-neolitik umumnya dimulai pada periode 8000 tahun yang lalu. ",
+    "age"           : "10.000 tahun yang lalu",
+    "description"   : "Masa pra-neolitik adalah masa peralihan dari teknologi alat batu yang sederhana menuju teknologi alat yang lebih maju. Alat-alat batu masa pra-neolitik memperlihatkan bentuk-bentuk alat yang lebih spesifik untuk mencapai tujuan tertentu, seperti mata panah, lancipan, atau serpih-bilah. Pemahaman manusia untuk mencapai tingkatan teknologi ini berbeda-beda pada setiap kebudayaan, namun paling tidak temuan-temuan arkeologis yang berkaitan dengan teknologi pra-neolitik umumnya dimulai pada periode 10.000 tahun yang lalu. ",
     "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Pre-Neolithic).png",
     "assets"        : "arc-today"
 },
