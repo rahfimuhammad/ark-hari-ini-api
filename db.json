@@ -1,13 +1,13 @@
 {   "litografiBatavia": [
-        {
+         {
         "title"         : "Litografi Pulau Onrust",
         "id"            : 0,
         "year"          : "",
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PulauOnrust.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbPulauOnrust.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/PulauOnrust.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbPulauOnrust.jpg"
     },
     {
         "title"         : "Litografi Tembok Kota",
@@ -16,8 +16,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/TembokKota.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbTembokKota.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/TembokKota.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbTembokKota.jpg"
     },
     {
         "title"         : "Litografi Kota Batavia",
@@ -26,8 +26,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/KotaBatavia.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbKotaBatavia.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/KotaBatavia.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbKotaBatavia.jpg"
     },
     {
         "title"         : "Litografi Pinggir Kanal",
@@ -36,8 +36,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/pinggirKanal.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbPinggirKanal.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/pinggirKanal.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbPinggirKanal.jpg"
     },
     {
         "title"         : "Litografi Sado di Pecinan",
@@ -46,8 +46,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Pecinan.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbPecinan.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/Pecinan.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbPecinan.jpg"
     },
     {
         "title"         : "Litografi Kantor Gubernur",
@@ -56,8 +56,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/KantorGubernur.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbKantorgubernur.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/KantorGubernur.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbKantorGubernur.jpg"
     },
     {
         "title"         : "Litografi Hotel di Batavia",
@@ -66,8 +66,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/HotelDiBatavia.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbHotelDiBatavia.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/HotelDiBatavia.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbHotelDiBatavia.jpg"
     },
     {
         "title"         : "Litografi Gereja Sion",
@@ -76,8 +76,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/GerejaSion.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbGerejaSion.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/GerejaSion.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbGerejaSion.jpg"
     },
     {
         "title"         : "Litografi Interior Gereja Sion",
@@ -86,8 +86,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/InteriorGerejaSion.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbInteriorGerejaSion.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/InteriorGerejaSion.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbInteriorGerejaSion.jpg"
     },
     {
         "title"         : "Litografi Monumen Peter Eberveld",
@@ -96,8 +96,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MonumenpeterEberveld.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbMonumenPeterEberveld.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/MonumenpeterEberveld.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbMonumenpeterEberveld.jpg"
     },
     {
         "title"         : "Litografi Suasana Pecinan",
@@ -106,8 +106,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Pecinan2.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbPecinan2.jpg"},
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/Pecinan2.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbPecinan2.jpg"},
     {
         "title"         : "Litografi Taman Prasasti",
         "id"            : 11,
@@ -115,8 +115,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Taman Prasasti.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbTamanprasasti.jpg"},
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/Taman Prasasti.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbTamanPrasasti.jpg"},
     {
         "title"         : "Litografi Balai Kota Batavia",
         "id"            : 12,
@@ -124,8 +124,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/BalaiKota.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbBalaiKota.jpg"},
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/BalaiKota.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbBalaiKota.jpg"},
     {
         "title"         : "Litografi Pasar Ikan",
         "id"            : 13,
@@ -133,8 +133,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PasarIkan.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbPasarIkan.jpg"},
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/PasarIkan.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbPasarIkan.jpg"},
     {
         "title"         : "Litografi De Nieuwe Hollandse Kerk",
         "id"            : 14,
@@ -142,8 +142,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/GerejaMuseumWayang.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbGerejaMuseumWayang.jpg"},
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/GerejaMuseumWayang.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbGerejaMuseumWayang.jpg"},
     {
         "title"         : "Litografi Panti Asuhan",
         "id"            : 15,
@@ -151,8 +151,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/PantiAsuhan.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbPantiAsuhan.jpg"}
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/PantiAsuhan.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbPantiAsuhan.jpg"}
     ],
     
 "prehistoric": [
