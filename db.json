@@ -57,7 +57,7 @@
         "type"          : "",
         "description"   : "",
         "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/KantorGubernur.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbKantorGubernur.jpg"
+        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbKantorgubernur.jpg"
     },
     {
         "title"         : "Litografi Hotel di Batavia",
@@ -97,7 +97,7 @@
         "type"          : "",
         "description"   : "",
         "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/MonumenpeterEberveld.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbMonumenpeterEberveld.jpg"
+        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbMonumenPeterEberveld.jpg"
     },
     {
         "title"         : "Litografi Suasana Pecinan",
@@ -116,7 +116,7 @@
         "type"          : "",
         "description"   : "",
         "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/litografiBatavia/main/assets/Taman Prasasti.jpg",
-        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbTamanPrasasti.jpg"},
+        "thumbnail"     : "https://github.com/rahfimuhammad/archaeologyToday/blob/main/assets/litografiBataviaassets/thumbTamanprasasti.jpg"},
     {
         "title"         : "Litografi Balai Kota Batavia",
         "id"            : 12,
