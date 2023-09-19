@@ -57,7 +57,7 @@
         "type"          : "",
         "description"   : "",
         "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/KantorGubernur.jpg",
-        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbKantorGubernur.jpg"
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbKantorgubernur.jpg"
     },
     {
         "title"         : "Litografi Hotel di Batavia",
@@ -96,8 +96,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/MonumenpeterEberveld.jpg",
-        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbMonumenpeterEberveld.jpg"
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/MonumenPeterEberveld.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbMonumenPeterEberveld.jpg"
     },
     {
         "title"         : "Litografi Suasana Pecinan",
@@ -115,8 +115,8 @@
         "author"        : "",
         "type"          : "",
         "description"   : "",
-        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/Taman Prasasti.jpg",
-        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbTamanPrasasti.jpg"},
+        "iamge"         : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/TamanPrasasti.jpg",
+        "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/thumbTamanprasasti.jpg"},
     {
         "title"         : "Litografi Balai Kota Batavia",
         "id"            : 12,
