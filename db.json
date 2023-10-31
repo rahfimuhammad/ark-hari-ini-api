@@ -5,6 +5,7 @@
         "employment"    : "Kartografer",
         "year"          : "1736-1744",              
         "category"      : 0,
+        "picture"       : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.W.%20Heydt/icon-jwHeydt.png",
         "story"         : "Johann Wolfgang Heydt adalah seorang kartografer asal Jerman yang pernah bekerja untuk VOC di Hindia Belanda pada abad ke-18. Heydt banyak menggambar peta perencanaan dan gambar bangunan-bangunan di Batavia ",
         "workBatavia"   : [
                                 {
@@ -51,6 +52,7 @@
             "employment"    : "Kolonel Infanteri KNIL",
             "year"          : "1882-1889",              
             "category"      : 1,
+            "picture"       : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.C.%20Rappard/icon-jcRappard.png",
             "story"         : "Josias Cornelis Rappard lahir di Nijmegen, Belanda pada tahun 1824. Di Hindia Belanda, ia bertugas sebagai Kolonel Infanteri KNIL (pasukan kerajaan Hindia Belanda) sejak tahun 1882-1889. Selama di Hindia Belanda, J.C. Rappard banyak membuat karya litografi dengan berbagai objek, mulai dari bangunan, bentang alam, kebudayaan Nusantara, hingga interaksi antara orang-orang bumiputera dengan orang Eropa, Cina, dan Timur Tengah.",
             "workBatavia"   : [
                              {
