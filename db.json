@@ -616,7 +616,7 @@
             "name"          : "Alat Batu (Paleolitik)",
             "category"      : 0,
             "age"           : "1.8 juta tahun yang lalu",
-            "description"   : "Istilah paleolitik dalam alat batu merujuk pada tingkatan awal dari teknologi pembuatan dan penggunaan alat batu oleh manusia. Awalnya, manusia menggunakan alat batu secara insidental, yaitu memanfaatkan batuan-batuan alami di sekitarnya yang memiliki sisi tajaman. Kemudian, pada perkembangannya manusia mulai membentuk batuan-batuan alami tersebut dengan memecahnya menjadi serpih-serpih kecil. Pada fase terakhir dari teknologi paleolitik, manusia mulai mampu menghasilkan alat-alat batu dengan bentuk yang lebih spesifik, seperti kapak genggam, kapak perimbas, da kapak penetak. Teknologi alat batu ini berkembang dalam kurun waktu ratusan ribu tahun yang mengiringi kehidupan manusia dari masa ke masa.",
+            "description"   : "Istilah paleolitik merujuk pada tingkatan awal dari teknologi pemanfaatan batu sebagai alat. Awalnya, manusia menggunakan alat batu secara insidental, yaitu memanfaatkan batuan di sekitarnya yang memiliki sisi tajaman. Pada perkembangannya, manusia mulai membentuk batuan alami tersebut dengan memecahnya menjadi serpih-serpih kecil. Fase puncak dari teknologi paleolitik ditandai dengan kemampuan manusia menghasilkan bentuk alat yang lebih spesifik, seperti kapak genggam, kapak perimbas, dan kapak penetak. Teknologi ini berkembang dalam kurun waktu ratusan ribu tahun yang mengiringi kehidupan manusia dari masa ke masa.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Paleolithic).png",
             "assets"        : "www.historyofscience.com"
         },
@@ -624,7 +624,7 @@
             "name"          : "Nomaden",
             "category"      : 1,
             "age"           : "1.8 juta tahun yang lalu",
-            "description"   : "Era kehidupan nomaden dikenal sebagai periode dalam sejarah manusia yang ditandai dengan cara hidup yang berpindah-pindah. Kelompok-kelompok manusia akan mendiami tempat yang cocok untuk berlindung dan cukup akan sumber daya alam, kemudian mereka akan berpindah ke tempat lain apabila sumber daya alam di daerah tersebut telah habis. Selain itu, perpindahan juga terpengaruh oleh pergantian musim. Kehidupan nomaden sangat bergantung pada pengetahuan manusia mengenai lanskap alam, navigasi, dan siklus musim. Era nomaden memainkan peran penting dalam membentuk budaya manusia, identitas, dan perkembangan jalur perdagangan awal.",
+            "description"   : "Era kehidupan nomaden ditandai dengan cara hidup yang berpindah-pindah. Kelompok-kelompok manusia akan mendiami tempat yang cocok untuk berlindung dan cukup akan sumber daya alam, kemudian mereka akan berpindah ke tempat lain apabila sumber daya alam di daerah tersebut telah habis. Selain itu, perpindahan juga terpengaruh oleh pergantian musim. Kehidupan nomaden sangat bergantung pada pengetahuan manusia mengenai lanskap alam, navigasi, dan siklus musim. Era nomaden memainkan peran penting dalam membentuk budaya manusia, identitas, dan perkembangan jalur perdagangan awal.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Nomadic.png",
             "assets"        : "arc-today"
         },
@@ -632,7 +632,7 @@
             "name"          : "Berburu dan Mengumpulkan Makanan",
             "category"      : 2,
             "age"           : "1.8 juta tahun yang lalu",
-            "description"   : "Berburu dan mengumpulkan makanan adalah cara bertahan hidup manusia sebelum munculnya pertanian. Manusia berburu hewan untuk dimakan dan mengumpulkan tumbuhan, buah-buahan, kacang-kacangan, dan umbi-umbian yang dapat dimakan dari lingkungan. Komunitas pemburu-pengumpul ini mengandalkan pengetahuan mendalam mereka tentang tanah, musim, dan perilaku hewan untuk mempertahankan diri. Mereka menunjukkan hubungan yang mendalam dengan alam untuk memastikan ketersediaan sumber daya. Gaya hidup ini memupuk kerja sama, struktur sosial egaliter, dan warisan budaya yang kaya saat mereka berbagi pengetahuan, keterampilan, dan tanggung jawab komunal, menjalin ikatan yang kuat dalam kelompok mereka.",
+            "description"   : "Berburu dan mengumpulkan makanan adalah cara bertahan hidup manusia sebelum munculnya pertanian. Manusia berburu hewan dan mengumpulkan tumbuhan (buah, kacang, umbi) yang dapat dimakan secara langsung. Komunitas pemburu-pengumpul ini mengandalkan hubungan sosial yang erat antar individu yang juga didukung dengan pengetahuan mereka tentang alam (musim, perilaku hewan, tanah).",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Hunting%20and%20Gathering.png",
             "assets"        : "arc-today"
         },
@@ -641,7 +641,7 @@
             "name"          : "Homo Erectus Arkaik",
             "category"      : 3,
             "age"           : "1.8 - 0.75 juta tahun yang lalu",
-            "description"   : "Homo erectus arkaik adalah jenis pertama Homo erectus dalam rantai evolusinya. Homo erectus muncul pertama kali di Afrika sekitar 2 juta tahun yang lalu dan bermigrasi ke daerah lain di Eropa dan Asia. Temuan fosil Homo erectus arkaik tertua di Inonesia ditemukan di situs Bumiayu, Jawa Tengah, berusia 1,8 juta tahun. Secara fisik, Homo erectus arkaik memiliki struktur rangka tegak, tinggi sekitar 165 cm, dan volume otak sekitar 870 cc. Manusia awal di pulau Jawa ini hidup dalam rentang waktu 1,8 juta tahun hingga 0,75 juta tahun yang lalu. Mereka bertahan hidup di Pulau Jawa yang saat itu lingkungannya masih berupa rawa. Kehidupan Homo erectus arkaik disokong peralatan batu berupa alat serpih kecil dan memanfaatkan sumber daya alam di tepian-tepian sungai.",
+            "description"   : "Homo erectus arkaik adalah jenis pertama dalam rantai evolusi Homo erectus. Mereka muncul pertama kali di Afrika sekitar 2 juta tahun yang lalu dan bermigrasi ke wilayah lain. Temuan fosil Homo erectus arkaik tertua di Indonesia ditemukan di situs Bumiayu, Jawa Tengah, berusia 1,8 juta tahun. Secara fisik, Homo erectus arkaik memiliki struktur rangka tegak, tinggi sekitar 165 cm, dan volume otak sekitar 870 cc. Homo erectus arkaik hidup dalam rentang waktu 1,8 - 0,75 juta tahun yang lalu. Mereka bertahan hidup di Pulau Jawa yang saat itu lingkungannya masih berupa rawa. Kehidupan Homo erectus arkaik ditunjang peralatan batu berupa alat serpih kecil dan memanfaatkan sumber daya alam di tepian-tepian sungai.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Archaic.png",
             "link"          : "https://kemdikbud.go.id",
             "assets"        : "kemdikbud.go.id"
@@ -650,7 +650,7 @@
             "name"          : "Homo Erectus Tipik",
             "category"      : 4,
             "age"           : "0.75 - 0.25 juta tahun yang lalu",
-            "description"   : "Homo erectus tipik merupakan kelanjutan evolusi dari Homo erectus sebelumnya. Jenis Homo erectus ini adalah jenis yang paling banyak ditemukan di situs Sangiran, Jawa Tengah. Homo erectus tipik hidup dan berkembang dalam rentang waktu 0,75 - 0,25 juta tahun yang lalu. Berbeda dengan pendahulunya, Homo erectus yang satu ini memiliki volume otak yang lebih besar, yakni sekitar 1000 cc. Homo erectus tipik hidup di lingkungan pulau Jawa yang telah bertransformasi dari lingkungan rawa menjadi hutan terbuka. Mereka mulai mengembangkan teknologi alat-alat batu massif seperti kapak perimbas, kapak penetak, dan kapak genggam.",
+            "description"   : "Homo erectus tipik merupakan kelanjutan evolusi dari Homo erectus sebelumnya. Jenis Homo erectus ini adalah jenis yang fosilnya paling banyak ditemukan di situs Sangiran, Jawa Tengah. Homo erectus tipik hidup dan berkembang dalam rentang waktu 0,75 - 0,25 juta tahun yang lalu. Berbeda dengan pendahulunya, Homo erectus yang satu ini memiliki volume otak yang lebih besar, yakni sekitar 1000 cc. Homo erectus tipik hidup di lingkungan pulau Jawa yang telah bertransformasi dari lingkungan rawa menjadi hutan terbuka. Mereka mulai mengembangkan teknologi alat batu masif seperti kapak perimbas, kapak penetak, dan kapak genggam.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Tipic.png",
             "assets"        : "kemdikbud.go.id"
         },
@@ -658,7 +658,7 @@
             "name"          : "Homo Erectus Progresif",
             "category"      : 5,
             "age"           : "0.25 - 0.15 juta tahun yang lalu",
-            "description"   : "Homo erectus progresif menjadi jenis terakhir dalam tingkatan evolusi Homo erectus di Indonesia. Homo erectus tipik juga memperlihatkan adanya perkembangan volume otak dalam rantai evolusi, yakni dari 1000 cc menjadi sekitar 1100 cc. Jenis Homo erectus ini hidup dalam rentang waktu yang relatif lebih singkat dari Homo erectus terdahulu, 0,25 - 0,1 juta tahun yang lalu. Jejak-jejak kehidupan Homo erectus tipik cukup banyak tersebar di situs-situs Pulau Jawa, seperti Bengawan Solo, Sambungmacan, Ngandong, dan Ngawi.",
+            "description"   : "Homo erectus progresif menjadi jenis terakhir dalam tingkatan evolusi Homo erectus di Indonesia. Homo erectus tipik juga memperlihatkan adanya perkembangan volume otak dalam rantai evolusi, yakni dari 1000 cc menjadi sekitar 1100 cc. Jenis Homo erectus ini hidup dalam rentang waktu yang relatif lebih singkat dari pendahulunya, 0,25 - 0,1 juta tahun yang lalu. Jejak kehidupan Homo erectus tipik cukup banyak tersebar di situs-situs Pulau Jawa, seperti Bengawan Solo, Sambungmacan, Ngandong, dan Ngawi.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Progressive.png",
             "assets"        : "kemdikbud.go.id"
         },
@@ -666,7 +666,7 @@
             "name"          : "Tinggal dan Menetap",
             "category"      : 6,
             "age"           : "94.000 tahun yang lalu",
-            "description"   : "Manusia prasejarah awal awalnya hidup secara nomaden, mengumpulkan makanan dan berburu untuk bertahan hidup. Namun, seiring dengan berkembangnya pengetahuan manusia terhadap alam, cara hidup nomaden secara perlahan mulai di tinggalkan. Pada awalnya, manusia mulai tinggal dan menetap di gua-gua alami yang dekat dengan sumber daya alam. Mereka tinggal dalam kurun waktu tertentu (temporer), bergantung pada ketersediaan sumber daya alam di sekitarnya. Cara hidup semacam ini terus mengalami perkembangan seiring dengan berkembangnya kemampuan manusia untuk bertani dan domestikasi hewan. Barulah pada masa tersebut, manusia mulai tinggal di suatu tempat secara permanen dengan membangun permukimannya sendiri.",
+            "description"   : "Perkembangan pengetahuan manusia terhadap alam menyebabkan mulai beralihnya cara hidup nomaden menjadi menetap. Manusia mulai tinggal dan menetap di gua-gua alami yang dekat dengan sumber daya alam. Mereka tinggal dalam kurun waktu tertentu (temporer), bergantung pada ketersediaan sumber daya alam di sekitar. Cara hidup semacam ini terus berkembang seiring dengan berkembangnya kemampuan manusia untuk bertani dan domestikasi hewan yang mendorong manusia untuk tinggal di suatu tempat secara permanen dengan membangun permukimannya sendiri.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Settling.png",
             "link"          : "https://www.pngegg.com",
             "assets"        : "pngegg"
@@ -675,7 +675,7 @@
             "name"          : "Homo Floresiensis",
             "category"      : 7,
             "age"           : "94.000 - 40.000 tahun yang lalu",
-            "description"   : "Homo floresiensis merupakan spesies hominin yang telah punah dan ditemukan di pulau Flores, Indonesia. Mereka hidup sekitar 40.000 hingga 94.000 tahun yang lalu. Homo Floresiensis seringkali disebut sebagai “Hobbit” karena tinggi badannya hanya sekitar 100 cm dan kapasitas otaknya yang lebih kecil dibanding manusia modern. Manusia Hobbit ini hidup di gua-gua alami dan bertahan hidup dengan teknologi peralatan sederhana. Sisa-sisa kebudayaannya ditemukan di gua Liang Bua, Flores, pada tahun 2003. Penemuan ini memberikan wawasan berharga tentang sejarah evolusi manusia dan adaptasi unik manusia prasejarah terhadap lingkungan di Indonesia.",
+            "description"   : "Homo floresiensis merupakan spesies hominin yang telah punah. Sisa kehidupannya ditemukan di Liang Bua, PUlau Flores. Mereka hidup sekitar 94.000 - 40.000 tahun yang lalu. Homo Floresiensis seringkali disebut sebagai “Hobbit” karena tinggi badannya hanya sekitar 100 cm dan kapasitas otak yang lebih kecil dibanding Homo sapiens. “Hobbit” hidup di gua-gua alami dan bertahan hidup dengan teknologi peralatan yang memungkinkannya untuk berburu hewan.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Floresiensis.png",
             "assets"        : "Public Domain"
         },
@@ -700,7 +700,7 @@
             "name"          : "Gambar Cadas",
             "category"      : 10,
             "age"           : "40.000 tahun yang lalu",
-            "description"   : "Gambar cadas adalah sisa kebudayaan manusia prasejarah berupa gambar-gambar yang dilukiskan pada media batu, biasanya ada di dinding-dinding gua. Gambar yang terlukis memiliki bentuk yang beragam, dimulai dari bentuk-bentuk geometris sederhana hingga gambar yang lebih kompleks seperti perahu, hewan, dan manusia. Penelitian arkeologi mengungkapkan bahwa gambar-gambar cadas memiliki makna yang beragam, seperti untuk tujuan ritual kepercayaan, hubungan sosial manusia, atau hubungan manusia dengan lanskap alam di sekitarnya. Penelitian terbaru mengungkapkan bahwa gambar cadas tertua di Indonesia ada di Sangkulirang, Kalimantan Timur, berusia 40.000 tahun. Gambar cadas tersebut memiliki motif hewan banteng liar.",
+            "description"   : "Gambar cadas adalah sisa kebudayaan manusia prasejarah berupa gambar-gambar yang dilukiskan pada media batu, biasanya ada di dinding-dinding gua. Gambar yang terlukis memiliki bentuk yang beragam, mulai dari bentuk geometris sederhana hingga gambar yang lebih kompleks seperti perahu, hewan, dan manusia. Penelitian arkeologi mengungkapkan bahwa gambar-gambar cadas memiliki makna yang beragam, seperti untuk tujuan ritual kepercayaan, hubungan sosial, atau hubungan manusia dengan alam di sekitarnya. Penelitian terbaru mengungkapkan bahwa gambar cadas tertua di Indonesia ada di Sangkulirang, Kalimantan Timur, berusia 40.000 tahun. Gambar cadas tersebut memiliki motif hewan banteng liar.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Rock%20Art.png",
             "assets"        : "Public Domain"
         },
@@ -708,7 +708,7 @@
             "name"          : "Bercocok Tanam Tingkat Sederhana",
             "category"      : 11,
             "age"           : "15.000 tahun yang lalu",
-            "description"   : "Cara manusia bertahan hidup mengalami perkembangan dari waktu ke waktu. Masa bercocok tanam tingkat sederhana adalah fase awal dari pemahaman manusia untuk menghasilkan maknanannya sendiri. Pada masa ini, manusia prasejarah masih berburu dan mengumpulkan makanan, namun juga sudah memikirkan cara untuk mengolah sumber daya alam di sekitarnya untuk menyediakan persediaan makanan. Mereka mulai menanam Kembali tunas-tunas tumbuhan yang dikumpulkan untuk dipanen kemudian hari. Selain itu, fase awal masa bercocok tanam juga ditandai dengan pengetahuan dasar manusia untuk men-domestikasi hewan.",
+            "description"   : "Masa bercocok tanam tingkat sederhana adalah fase awal dari pemahaman manusia untuk menghasilkan maknanannya sendiri. Pada masa ini, manusia masih berburu dan mengumpulkan makanan, namun juga sudah memikirkan cara untuk mengolah sumber daya alam di sekitarnya untuk menyediakan persediaan makanan. Mereka mulai menanam Kembali tunas-tunas tumbuhan yang dikumpulkan untuk dipanen kemudian hari. Selain itu, fase awal masa bercocok tanam juga ditandai dengan pengetahuan dasar manusia untuk mendomestikasi hewan.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Early%20Food%20Producing.png",
             "link"          : "https://id.pngtree.com/so/ilustrasi",
             "assets"        : "pngtree"
@@ -717,7 +717,7 @@
             "name"          : "Homo sapiens (Australo-Melanesid)",
             "category"      : 12,
             "age"           : "15.000 tahun yang lalu",
-            "description"   : "Kehidupan Homo sapiens di Indonesia telah dimulai sejak 70.000 tahun yang lalu, dibuktikan dengan temuan Homo Wajakensis di Jawa Tengah. Seperti yang kita ketahui, Homo sapiens di dunia terbagi ke dalam beberapa jenis ras, mengacu pada ciri fisiknya. Di Indonesia, persebaran Homo Sapiens pada awalnya didominasi oleh ras Australo-Melanesid, sub ras Negroid yang kita kenal sebagai suku Aborigin atau orang Papua di masa sekarang. Persebaran ras ini mendominasi Indonesia pada periode 15.000 tahun yang lalu, dibuktikan dengan temuan rangka di banyak situs seperti Pegunungan Kendeng Utara, Pegunungan Utara Bogor, Pegunungan Karst Sewu, Pegunungan Meratus di Kalimantan Selatan, Gua Harimau di Sumatera Selatan, dan Pesisir timur Sumatera Utara.",
+            "description"   : "Kehidupan Homo sapiens di Indonesia telah dimulai sejak 70.000 tahun yang lalu, dibuktikan dengan temuan Homo Wajakensis di Jawa Tengah. Seperti yang kita ketahui, Homo sapiens di dunia terbagi ke dalam beberapa jenis ras. Di Indonesia, persebaran Homo Sapiens pada awalnya didominasi oleh ras Australo-Melanesid, sub ras Negroid yang kita kenal sebagai suku Aborigin atau orang Papua di masa sekarang. Persebaran ras ini mendominasi Indonesia pada periode 15.000 tahun yang lalu, dibuktikan dengan temuan rangka di banyak situs seperti Pegunungan Kendeng Utara, Pegunungan Utara Bogor, Pegunungan Karst Sewu, Pegunungan Meratus di Kalimantan Selatan, Gua Harimau di Sumatera Selatan, dan Pesisir timur Sumatera Utara.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Sapiens%20(Australo-Melanesid).png",
             "assets"        : "Public Domain"
         },
@@ -725,7 +725,7 @@
             "name"          : "Peralatan Berbahan Tanah Liat",
             "category"      : 13,
             "age"           : "10.000 tahun yang lalu",
-            "description"   : "Tradisi pembuatan alat berbahan tanah liat tertua di Indonesia telah dimulai paling tidak sejak 10.000 tahun yang lalu. Manusia telah mengenal jenis tanah liat yang dapat dibentuk untuk kemudian dibakar agar menjadi keras. Peralatan yang dibuat biasanya berbentuk wadah untuk menampung air atau bahan makanan, seperti piring, cawan, dan guci. Peralatan berbahan tanah liat sangat erat kaitannya dengan masa bercocok tanam, baik masa bercocok tanam tingkat sederhana maupun tingkat lanjut. Selama masa perkembangan sistem bercocok tanam, peralatan berbahan tanah liat juga berkembang dari segi bentuk, teknologi pembuatan, hingga seni pada ragam hiasnya.",
+            "description"   : "Tradisi pembuatan alat berbahan tanah liat tertua di Indonesia telah dimulai paling tidak sejak 10.000 tahun yang lalu. Manusia telah mengenal jenis tanah liat yang dapat dibentuk untuk kemudian dibakar agar menjadi keras. Peralatan yang dibuat biasanya berbentuk wadah untuk menampung air atau bahan makanan. Peralatan berbahan tanah liat sangat erat kaitannya dengan masa bercocok tanam, baik masa bercocok tanam tingkat sederhana maupun tingkat lanjut. Selama masa perkembangan sistem bercocok tanam, peralatan berbahan tanah liat juga berkembang dari segi bentuk, teknologi pembuatan, hingga seni pada ragam hiasnya.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Pottery.png",
             "link"          : "https://id.pngtree.com/so/ilustrasi",
             "assets"        : "pngtree"
@@ -734,7 +734,7 @@
             "name"          : "Alat Batu (Pra-Neolitik)",
             "category"      : 14,
             "age"           : "10.000 tahun yang lalu",
-            "description"   : "Masa pra-neolitik adalah masa peralihan dari teknologi alat batu yang sederhana menuju teknologi alat yang lebih maju. Alat-alat batu masa pra-neolitik memperlihatkan bentuk-bentuk alat yang lebih spesifik untuk mencapai tujuan tertentu, seperti mata panah, lancipan, atau serpih-bilah. Pemahaman manusia untuk mencapai tingkatan teknologi ini berbeda-beda pada setiap kebudayaan, namun paling tidak temuan-temuan arkeologis yang berkaitan dengan teknologi pra-neolitik umumnya dimulai pada periode 10.000 tahun yang lalu. ",
+            "description"   : "Masa pra-neolitik adalah masa peralihan dari teknologi alat batu yang sederhana menuju teknologi alat yang lebih maju. Alat-alat batu masa pra-neolitik memperlihatkan bentuk-bentuk alat yang lebih spesifik untuk mencapai tujuan tertentu, seperti mata panah, lancipan, atau serpih-bilah. Pemahaman manusia untuk mencapai tingkatan teknologi ini berbeda-beda pada setiap kebudayaan, namun paling tidak temuan-temuan arkeologis yang berkaitan dengan teknologi pra-neolitik umumnya dimulai pada periode 10.000 tahun yang lalu.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Pre-Neolithic).png",
             "assets"        : "arc-today"
         },
@@ -742,7 +742,7 @@
             "name"          : "Alat Batu (Neolitik)",
             "category"      : 15,
             "age"           : "4.000 tahun yang lalu",
-            "description"   : "Alat batu pada masa neolitik dicirikan dengan alat-alat massif yang diasah pada permukaannya. Pengasahan ini menghasilkan permukaan batu yang halus dan bentuk yang presisi. Beberapa jenis alat batu neolitik adalah belincung, beliung, pahat, dan kapak. Sebagian besar peralatan tersebut identik dengan kegiatan pertanian, seperti beiung dan belincung yang digunakan untuk mencangkul tanah-tanah di lahan pertanian.",
+            "description"   : "Alat batu pada masa neolitik dicirikan dengan alat-alat masif yang diasah pada permukaannya. Pengasahan ini menghasilkan permukaan batu yang halus dan bentuk yang presisi. Beberapa jenis alat batu neolitik adalah belincung, beliung, pahat, dan kapak. Sebagian besar peralatan tersebut identik dengan kegiatan pertanian, seperti beiung dan belincung yang digunakan untuk mencangkul tanah di lahan pertanian.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Neolithic).png",
             "link"          : "https://www.pngdownload.id/png-gr3oav/",
             "assets"        : "pngdownload.id"
@@ -751,7 +751,7 @@
             "name"          : "Bercocok Tanam Tingkat Lanjut",
             "category"      : 16,
             "age"           : "4.000 tahun yang lalu",
-            "description"   : "Masa bercocok tanam tingkat lanjut ditandai dengan revolusi pertanian yang mengubah cara manusia menghasilkan sumber makanannya. Pada masa ini, manusia mulai mengenal pengetahuan pembibitan, irigasi, dan rotasi jenis tanaman untuk mencapai hasil panen yang besar dan konsisten. Perkembangan pengetahuan manusia pada masa ini juga mendorong mereka untuk bermukim secara tetap di daerah-daerah dengan lahan potensial untuk pertanian sembari terus mendomestikasi hewan-hewan untuk diternak.",
+            "description"   : "Masa bercocok tanam tingkat lanjut ditandai dengan revolusi pertanian yang mengubah cara manusia menghasilkan sumber makanannya. Pada masa ini, manusia mulai mengenal pengetahuan pembibitan, irigasi, dan rotasi jenis tanaman untuk mencapai hasil panen yang besar dan konsisten. Perkembangan pengetahuan manusia pada masa ini juga mendorong mereka untuk bermukim secara tetap di daerah dengan lahan potensial untuk pertanian sembari terus mendomestikasi hewan untuk diternak.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Food%20Producing.png",
             "link"          : "https://id.pngtree.com/so/ilustrasi",
             "assets"        : "pngtree"
@@ -760,7 +760,7 @@
             "name"          : "Homo Sapiens (Mongoloid)",
             "category"      : 17,
             "age"           : "4.000 tahun yang lalu",
-            "description"   : "Keragaman ras yang ada di Indonesia hari ini tidak terlepas dari migrasi ras Mongoloid sekitar 4000 tahun yang lalu. Kelompok manusia ini sering disebut sebagai bangsa Austronesia karena menuturkan bahasa rumpun Austronesia. Mereka bermigrasi secara bertahap sejak 4000 tahun yang lalu dan menempati kepulauan-kepulauan yang menjadi Indonesia hari ini. Orang-orang Austronesia dikenal sebagai pelaut yang handal, mereka mengarungi lautan dengan perahu untuk mencapai tempat-tempat yang potensial. Migrasi besar-besaran ini tidak hanya membawa kelompok manusianya saja, namun juga membawa teknologi pertanian, peternakan, dan peralatan yang sudah maju.",
+            "description"   : "Keragaman ras yang ada di Indonesia hari ini tidak terlepas dari migrasi ras Mongoloid sekitar 4000 tahun yang lalu. Kelompok manusia ini sering disebut sebagai bangsa Austronesia karena menuturkan bahasa rumpun Austronesia. Mereka bermigrasi secara bertahap sejak 4000 tahun yang lalu dan menempati pulau-pulau yang menjadi Indonesia hari ini. Bangsa Austronesia dikenal sebagai pelaut yang handal, mereka mengarungi lautan dengan perahu untuk mencapai tempat-tempat yang potensial. Migrasi besar-besaran ini tidak hanya membawa kelompok manusianya saja, namun juga membawa teknologi pertanian, peternakan, dan peralatan yang sudah maju.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Mongoloid.png",
             "assets"        : "Public Domain"
         },
@@ -768,7 +768,7 @@
             "name"          : "Megalitik",
             "category"      : 18,
             "age"           : "4.000 tahun yang lalu",
-            "description"   : "Istilah megalitik di Indonesia secara umum merujuk pada tradisi pembangunan struktur batu besar oleh masyarakat prasejarah. Situs-situs megalitik ini tersebar di seluruh kepulauan, menampilkan kreativitas dan keterampilan teknis dari kelompok-kelompok manusia. Pembangunan struktur-struktur tersebut biasanya berkaitan dengan ritual pemakaman, keagamaan, dan sosial. Beberapa contoh struktur megalitik di Indonesia antara lain adalah punden berundak di Nias, patung-patung di lembah Lore, dan Batu Gantung di Sulawesi Selatan. Situs struktur batu-batu besar di Indonesia ini juga menunjukkan adanya sistem sosial masyarakat prasejarah yang kompak.",
+            "description"   : "Istilah megalitik di Indonesia secara umum merujuk pada tradisi pembangunan struktur batu besar oleh masyarakat prasejarah. Situs-situs megalitik ini tersebar di seluruh kepulauan, menampilkan kreativitas dan keterampilan teknis dari kelompok-kelompok manusia. Pembangunan struktur megalitik biasanya berkaitan dengan ritual pemakaman atau keagamaan. Beberapa contoh struktur megalitik di Indonesia antara lain adalah punden berundak di Nias, patung-patung di lembah Lore, dan Batu Gantung di Sulawesi Selatan.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Megalithic.png",
             "link"          : "https://www.pngegg.com/id/png-pftzt",
             "assets"        : "pngegg"
@@ -777,7 +777,7 @@
             "name"          : "Peralatan Logam (Paleometalik)",
             "category"      : 19,
             "age"           : "4.000 tahun yang lalu",
-            "description"   : "Teknologi peralatan berbahan logam dimulai sekitar 4000 tahun yang lalu. Temuan arkeologis menunjukkan adanya keterampilan manusia prasejarah menciptakan peralatan logam seperti kapak perunggu melalui proses peleburan dan penempaan. Teknologi ini memengaruhi perkembangan alat-alat dan budaya di Nusantara pada masa selanjutnya. Pemanfaatan logam memungkinkan pembuatan alat yang lebih kuat dan tajam, serta mempengaruhi interaksi perdagangan dan sosial antara komunitas-komunitas prasejarah di kepulauan-kepulauan Indonesia.",
+            "description"   : "Teknologi peralatan berbahan logam dimulai sekitar 4000 tahun yang lalu. Temuan arkeologis menunjukkan adanya keterampilan manusia prasejarah menciptakan peralatan logam seperti kapak perunggu melalui proses peleburan dan penempaan. Teknologi ini memengaruhi perkembangan alat-alat dan budaya di Nusantara pada masa selanjutnya. Pemanfaatan logam memungkinkan pembuatan alat yang lebih kuat dan lebih tajam.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Bronze%20Age.png",
             "link"          : "https://id.pngtree.com/so/ilustrasi",
             "assets"        : "pngtree"
