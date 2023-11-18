@@ -783,6 +783,12 @@
             "assets"        : "pngtree"
         }],
     "traditionalBoats" : [
+        {   "name" : "LANCANG",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
+            "source": "arc-today",
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Lancang.png"},
+        
         {   "name" : "PINISI",
             "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
             "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
