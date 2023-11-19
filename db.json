@@ -40,6 +40,17 @@
                                  "type"          : "",
                                  "description"   : "Litografi peta perencanaan pembangunan di Pulau Onrust",
                                  "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.W.%20Heydt/12.jpg"
+                                },
+                                {
+                                 "title"         : "Ein Profpect aus Sr. Hoch-Edelheit des Herren",
+                                 "id"            : 3,
+                                 "year"          : "tidak diketahui",
+                                 "author"        : "Johann Wolfgang Heydt",
+                                 "nickName"      : "J.W. Heydt",
+                                 "source"        : "data belum lengkap",
+                                 "type"          : "",
+                                 "description"   : "Litografi pemandangan taman di rumah Gubernur Jenderal",
+                                 "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.W.%20Heydt/13.jpg"
                                 }
             ],
             "workNonBatavia" : [
