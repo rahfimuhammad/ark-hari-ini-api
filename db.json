@@ -795,8 +795,8 @@
         }],
     "traditionalBoats" : [
         {   "name" : "LANCANG",
-            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
-            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
+            "summary": "Lancang adalah kapal layar orang Melayu, khususnya Riau di Pulau Sumatera. Ciri khas dari kapal ini adalah dua tiang layar",
+            "description": "Lancang adalah kapal layar orang Melayu, khususnya Riau di Pulau Sumatera. Ciri khas dari kapal ini adalah dua tiang layar besar dan ukiran-ukiran yang banyak pada haluan, lambung, hingga buritan. Selain itu, Lancang juga identik dengan cat berwarna kuning yang merupakan warna kebesaran dalam tradisi melayu, oleh karena itu penyebutan kapal ini biasanya tidak terpisahkan dengan warna kuning, “Lancang Kuning”. Di dalam sejarahnya, Lancang digunakan untuk berbagai keperluan transportasi, seperti kapal angkut, kapal raja, dan kapal perang atau kapal pengintai. Lancang yang digunakan untuk berperang dilengkapi dengan meriam yang biasanya diletakkan pada haluannya",
             "source": "arc-today",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Lancang.png"},
         
