@@ -796,7 +796,7 @@
     "traditionalBoats" : [
         {   "name" : "LANCANG",
             "summary": "Lancang adalah kapal layar orang Melayu, khususnya Riau di Pulau Sumatera. Ciri khas dari kapal ini adalah dua tiang layar",
-            "description": "Lancang adalah kapal layar orang Melayu, khususnya Riau di Pulau Sumatera. Ciri khas dari kapal ini adalah dua tiang layar besar dan ukiran-ukiran yang banyak pada haluan, lambung, hingga buritan. Selain itu, Lancang juga identik dengan cat berwarna kuning yang merupakan warna kebesaran dalam tradisi melayu, oleh karena itu penyebutan kapal ini biasanya tidak terpisahkan dengan warna kuning, “Lancang Kuning”. Di dalam sejarahnya, Lancang digunakan untuk berbagai keperluan transportasi, seperti kapal angkut, kapal raja, dan kapal perang atau kapal pengintai. Lancang yang digunakan untuk berperang dilengkapi dengan meriam yang biasanya diletakkan pada haluannya",
+            "description": "Lancang adalah kapal layar orang Melayu, khususnya Riau di Pulau Sumatera. Ciri khas dari kapal ini adalah dua tiang layar besar dan ukiran-ukiran yang banyak pada haluan, lambung, hingga buritan. Selain itu, Lancang juga identik dengan cat berwarna kuning yang merupakan warna kebesaran dalam tradisi melayu. Oleh karena itu, penyebutan kapal ini biasanya tidak terpisahkan dengan warna kuning, “Lancang Kuning”. Di dalam sejarahnya, Lancang digunakan untuk berbagai keperluan transportasi, seperti kapal angkut, kapal raja, dan kapal perang atau kapal pengintai. Lancang yang digunakan untuk berperang dilengkapi dengan meriam yang biasanya diletakkan pada haluannya.",
             "source": "arc-today",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Lancang.png"},
         
@@ -814,7 +814,7 @@
 
         {   "name" : "SANDEQ",
             "summary": "Sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk",
-            "description": "sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk lambung yang ramping dengan cadik di kedua sisinya. Ada beberapa ciri yang menjadi khas dari perahu ini, di antaranya adalah bentuk layarnya segitiga dan bagian mencuat pada haluan dan buritannya. Perahu Sandeq terkenal dengan kecepatan dan kelincahannya saat berlayar, di era modern, ada festival khusus yang menggelar lomba kecepatan perahu sandeq, yakni Festival Sandeq Race yang diadakan di Sulawesi Barat ",
+            "description": "sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk lambung yang ramping dengan cadik di kedua sisinya. Ada beberapa ciri yang menjadi khas dari perahu ini, di antaranya adalah bentuk layarnya segitiga dan bagian mencuat pada haluan dan buritannya. Perahu Sandeq terkenal dengan kecepatan dan kelincahannya saat berlayar, di era modern, ada festival khusus yang menggelar lomba kecepatan perahu sandeq, yakni Festival Sandeq Race yang diadakan di Sulawesi Barat. ",
             "source": "arc-today",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Sandeq.png"},
 
