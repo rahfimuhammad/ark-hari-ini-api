@@ -626,7 +626,7 @@
         {   
             "name"          : "Alat Batu (Paleolitik)",
             "category"      : 0,
-            "age"           : "1.8 juta tahun yang lalu",
+            "age"           : "1,8 juta tahun yang lalu",
             "description"   : "Istilah paleolitik merujuk pada tingkatan awal dari teknologi pemanfaatan batu sebagai alat. Awalnya, manusia menggunakan alat batu secara insidental, yaitu memanfaatkan batuan di sekitarnya yang memiliki sisi tajaman. Pada perkembangannya, manusia mulai membentuk batuan alami tersebut dengan memecahnya menjadi serpih-serpih kecil. Fase puncak dari teknologi paleolitik ditandai dengan kemampuan manusia menghasilkan bentuk alat yang lebih spesifik, seperti kapak genggam, kapak perimbas, dan kapak penetak. Teknologi ini berkembang dalam kurun waktu ratusan ribu tahun yang mengiringi kehidupan manusia dari masa ke masa.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Paleolithic).png",
             "assets"        : "www.historyofscience.com"
@@ -634,7 +634,7 @@
         {   
             "name"          : "Nomaden",
             "category"      : 1,
-            "age"           : "1.8 juta tahun yang lalu",
+            "age"           : "1,8 juta tahun yang lalu",
             "description"   : "Era kehidupan nomaden ditandai dengan cara hidup yang berpindah-pindah. Kelompok-kelompok manusia akan mendiami tempat yang cocok untuk berlindung dan cukup akan sumber daya alam, kemudian mereka akan berpindah ke tempat lain apabila sumber daya alam di daerah tersebut telah habis. Selain itu, perpindahan juga terpengaruh oleh pergantian musim. Kehidupan nomaden sangat bergantung pada pengetahuan manusia mengenai lanskap alam, navigasi, dan siklus musim. Era nomaden memainkan peran penting dalam membentuk budaya manusia, identitas, dan perkembangan jalur perdagangan awal.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Nomadic.png",
             "assets"        : "arc-today"
@@ -642,7 +642,7 @@
         {   
             "name"          : "Berburu dan Mengumpulkan Makanan",
             "category"      : 2,
-            "age"           : "1.8 juta tahun yang lalu",
+            "age"           : "1,8 juta tahun yang lalu",
             "description"   : "Berburu dan mengumpulkan makanan adalah cara bertahan hidup manusia sebelum munculnya pertanian. Manusia berburu hewan dan mengumpulkan tumbuhan (buah, kacang, umbi) yang dapat dimakan secara langsung. Komunitas pemburu-pengumpul ini mengandalkan hubungan sosial yang erat antar individu yang juga didukung dengan pengetahuan mereka tentang alam (musim, perilaku hewan, tanah).",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Hunting%20and%20Gathering.png",
             "assets"        : "arc-today"
@@ -651,8 +651,8 @@
         {   
             "name"          : "Homo Erectus Arkaik",
             "category"      : 3,
-            "age"           : "1.8 - 0.75 juta tahun yang lalu",
-            "description"   : "Homo erectus arkaik adalah jenis pertama dalam rantai evolusi Homo erectus. Mereka muncul pertama kali di Afrika sekitar 2 juta tahun yang lalu dan bermigrasi ke wilayah lain. Temuan fosil Homo erectus arkaik tertua di Indonesia ditemukan di situs Bumiayu, Jawa Tengah, berusia 1,8 juta tahun. Secara fisik, Homo erectus arkaik memiliki struktur rangka tegak, tinggi sekitar 165 cm, dan volume otak sekitar 870 cc. Homo erectus arkaik hidup dalam rentang waktu 1,8 - 0,75 juta tahun yang lalu. Mereka bertahan hidup di Pulau Jawa yang saat itu lingkungannya masih berupa rawa. Kehidupan Homo erectus arkaik ditunjang peralatan batu berupa alat serpih kecil dan memanfaatkan sumber daya alam di tepian-tepian sungai.",
+            "age"           : "1,8 - 0,75 juta tahun yang lalu",
+            "description"   : "Homo erectus arkaik adalah jenis pertama dalam rantai evolusi Homo erectus. Mereka muncul pertama kali di Afrika sekitar dua juta tahun yang lalu dan bermigrasi ke wilayah lain. Temuan fosil Homo erectus arkaik tertua di Indonesia ditemukan di situs Bumiayu, Jawa Tengah, berusia 1,8 juta tahun. Secara fisik, Homo erectus arkaik memiliki struktur rangka tegak, tinggi sekitar 165 cm, dan volume otak sekitar 870 cc. Homo erectus arkaik hidup dalam rentang waktu 1,8 - 0,75 juta tahun yang lalu. Mereka bertahan hidup di Pulau Jawa yang saat itu lingkungannya masih berupa rawa. Kehidupan Homo erectus arkaik ditunjang peralatan batu berupa alat serpih kecil dan memanfaatkan sumber daya alam di tepian-tepian sungai.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Archaic.png",
             "link"          : "https://kemdikbud.go.id",
             "assets"        : "kemdikbud.go.id"
@@ -660,7 +660,7 @@
         {
             "name"          : "Homo Erectus Tipik",
             "category"      : 4,
-            "age"           : "0.75 - 0.25 juta tahun yang lalu",
+            "age"           : "0,75 - 0,25 juta tahun yang lalu",
             "description"   : "Homo erectus tipik merupakan kelanjutan evolusi dari Homo erectus sebelumnya. Jenis Homo erectus ini adalah jenis yang fosilnya paling banyak ditemukan di situs Sangiran, Jawa Tengah. Homo erectus tipik hidup dan berkembang dalam rentang waktu 0,75 - 0,25 juta tahun yang lalu. Berbeda dengan pendahulunya, Homo erectus yang satu ini memiliki volume otak yang lebih besar, yakni sekitar 1000 cc. Homo erectus tipik hidup di lingkungan pulau Jawa yang telah bertransformasi dari lingkungan rawa menjadi hutan terbuka. Mereka mulai mengembangkan teknologi alat batu masif seperti kapak perimbas, kapak penetak, dan kapak genggam.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Tipic.png",
             "assets"        : "kemdikbud.go.id"
@@ -668,7 +668,7 @@
         {
             "name"          : "Homo Erectus Progresif",
             "category"      : 5,
-            "age"           : "0.25 - 0.15 juta tahun yang lalu",
+            "age"           : "0,25 - 0,15 juta tahun yang lalu",
             "description"   : "Homo erectus progresif menjadi jenis terakhir dalam tingkatan evolusi Homo erectus di Indonesia. Homo erectus tipik juga memperlihatkan adanya perkembangan volume otak dalam rantai evolusi, yakni dari 1000 cc menjadi sekitar 1100 cc. Jenis Homo erectus ini hidup dalam rentang waktu yang relatif lebih singkat dari pendahulunya, 0,25 - 0,1 juta tahun yang lalu. Jejak kehidupan Homo erectus tipik cukup banyak tersebar di situs-situs Pulau Jawa, seperti Bengawan Solo, Sambungmacan, Ngandong, dan Ngawi.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Erectus%20Progressive.png",
             "assets"        : "kemdikbud.go.id"
@@ -677,7 +677,7 @@
             "name"          : "Tinggal dan Menetap",
             "category"      : 6,
             "age"           : "94.000 tahun yang lalu",
-            "description"   : "Perkembangan pengetahuan manusia terhadap alam menyebabkan mulai beralihnya cara hidup nomaden menjadi menetap. Manusia mulai tinggal dan menetap di gua-gua alami yang dekat dengan sumber daya alam. Mereka tinggal dalam kurun waktu tertentu (temporer), bergantung pada ketersediaan sumber daya alam di sekitar. Cara hidup semacam ini terus berkembang seiring dengan berkembangnya kemampuan manusia untuk bertani dan domestikasi hewan yang mendorong manusia untuk tinggal di suatu tempat secara permanen dengan membangun permukimannya sendiri.",
+            "description"   : "Perkembangan pengetahuan manusia terhadap alam menyebabkan mulai beralihnya cara hidup nomaden menjadi menetap. Manusia mulai tinggal dan menetap di gua-gua alami yang dekat dengan sumber daya alam. Mereka tinggal dalam kurun waktu tertentu (temporer), bergantung pada ketersediaan sumber daya alam di sekitar. Cara hidup semacam ini terus berkembang seiring dengan berkembangnya kemampuan manusia untuk bertani dan domestikasi hewan yang mendorong manusia untuk tinggal di suatu tempat secara permanen.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Settling.png",
             "link"          : "https://www.pngegg.com",
             "assets"        : "pngegg"
@@ -686,7 +686,7 @@
             "name"          : "Homo Floresiensis",
             "category"      : 7,
             "age"           : "94.000 - 40.000 tahun yang lalu",
-            "description"   : "Homo floresiensis merupakan spesies hominin yang telah punah. Sisa kehidupannya ditemukan di Liang Bua, PUlau Flores. Mereka hidup sekitar 94.000 - 40.000 tahun yang lalu. Homo Floresiensis seringkali disebut sebagai “Hobbit” karena tinggi badannya hanya sekitar 100 cm dan kapasitas otak yang lebih kecil dibanding Homo sapiens. “Hobbit” hidup di gua-gua alami dan bertahan hidup dengan teknologi peralatan yang memungkinkannya untuk berburu hewan.",
+            "description"   : "Homo floresiensis merupakan spesies hominin yang telah punah. Sisa kehidupannya ditemukan di Liang Bua, Pulau Flores. Mereka hidup sekitar 94.000 - 40.000 tahun yang lalu. Homo floresiensis seringkali disebut sebagai “Hobbit” karena tinggi badannya hanya sekitar 100 cm dan kapasitas otak yang lebih kecil dibanding Homo sapiens. “Hobbit” hidup di gua-gua alami dan bertahan hidup dengan teknologi peralatan yang memungkinkannya untuk berburu hewan.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Floresiensis.png",
             "assets"        : "Public Domain"
         },
@@ -703,7 +703,7 @@
             "name"          : "Homo Sapiens",
             "category"      : 9,
             "age"           : "70.000 tahun yang lalu",
-            "description"   : "Kehidupan Homo sapiens awal di Indonesia terungkap melalui hasil penelitian terhadap temuan gigi di Gua Lida Ajer, Sumatera Barat. Penelitian tersebut secara yakin memastikan bahwa temuan gigi tersebut adalah milik dari Homo sapiens yang hidup dalam rentang waktu 63.000-73.000 tahun yang lalu. Sementara itu, jauh sebelum terungkapnya kehidupan manusia di Lida Ajer, temuan rangka di Wajak, Jawa Timur lebih dulu mengungkap kehadiran Homo Sapiens di Indonesia. Temuan rangka yang disebut Homo Wajakensis diyakini sebagai manusia modern awal yang menghuni pulau Jawa sekitar 70.000 tahun yang lalu. Para ahli berpendapat bahwa Homo sapiens awal yang hadir di Indonesia merupakan Homo sapiens dari ras Australomelanesid, sub-ras Negroid. Kehidupan ras ini kemudian menyebar di seluruh kepulauan Indonesia hingga 15.000 tahun yang lalu.",
+            "description"   : "Kehidupan Homo sapiens awal di Indonesia terungkap melalui hasil penelitian terhadap temuan gigi di Gua Lida Ajer, Sumatera Barat. Penelitian tersebut secara yakin memastikan bahwa temuan gigi tersebut adalah milik dari Homo sapiens yang hidup dalam rentang waktu 63.000-73.000 tahun yang lalu. Sementara itu, jauh sebelum terungkapnya kehidupan manusia di Lida Ajer, temuan rangka di Wajak, Jawa Timur lebih dulu mengungkap kehadiran Homo Sapiens di Indonesia. Temuan rangka yang disebut Homo Wajakensis diyakini sebagai manusia modern awal yang menghuni pulau Jawa sekitar 70.000 tahun yang lalu. Para ahli berpendapat bahwa Homo sapiens awal yang hadir di Indonesia merupakan Homo sapiens dari ras Australomelanesid, sub-ras Negroid. Kehidupan ras ini kemudian menyebar di seluruh kepulauan Indonesia hingga mencapai puncak persebarannya pada 15.000 tahun yang lalu.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Homo%20Wajakensis.png",
             "assets"        : "Public Domain"
         },
@@ -753,7 +753,7 @@
             "name"          : "Alat Batu (Neolitik)",
             "category"      : 15,
             "age"           : "3.600 tahun yang lalu",
-            "description"   : "Alat batu pada masa neolitik dicirikan dengan alat-alat masif yang diasah pada permukaannya. Pengasahan ini menghasilkan permukaan batu yang halus dan bentuk yang presisi. Beberapa jenis alat batu neolitik adalah belincung, beliung, pahat, dan kapak. Sebagian besar peralatan tersebut identik dengan kegiatan pertanian, seperti beiung dan belincung yang digunakan untuk mencangkul tanah di lahan pertanian.",
+            "description"   : "Alat batu pada masa neolitik dicirikan dengan alat-alat masif yang diasah pada permukaannya. Pengasahan ini menghasilkan permukaan batu yang halus dan bentuk yang presisi. Beberapa jenis alat batu neolitik adalah belincung, beliung, pahat, dan kapak. Sebagian besar peralatan tersebut identik dengan kegiatan pertanian, seperti beliung dan belincung yang digunakan untuk mencangkul tanah di lahan pertanian.",
             "button"        : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Stone%20Tools%20(Neolithic).png",
             "link"          : "https://www.pngdownload.id/png-gr3oav/",
             "assets"        : "pngdownload.id"
@@ -771,7 +771,7 @@
             "name"          : "Homo Sapiens (Mongoloid)",
             "category"      : 17,
             "age"           : "3.600 tahun yang lalu",
-            "description"   : "Keragaman ras yang ada di Indonesia hari ini tidak terlepas dari migrasi besar ras Mongoloid dari Taiwan (teori “out of taiwan”). Kelompok manusia ini sering disebut sebagai bangsa Austronesia karena menuturkan rumpun bahasa Austronesia. Penelitian arkeologis terkini menunjukkan Austronesia tiba di Kepulauan Indonesia sekitar 3.600 tahun yang lalu, diperoleh dari pertanggalan Situs Minanga Sipakko di Sulawesi Barat. Bangsa pendatang ini dikenal sebagai pelaut yang andal, mereka mengarungi lautan dengan perahu untuk mencapai tempat-tempat yang potensial. Migrasi ini juga membawa teknologi pertanian, peternakan, dan peralatan yang memunculkan interaksi budaya dengan kebudayaan Non-Austronesia yang lebih dulu hadir di Kepulauan Indonesia.",
+            "description"   : "Keragaman ras yang ada di Indonesia hari ini tidak terlepas dari migrasi besar ras Mongoloid dari Taiwan (teori “Out of Taiwan”). Kelompok manusia ini sering disebut sebagai bangsa Austronesia karena menuturkan rumpun bahasa Austronesia. Penelitian arkeologis terkini menunjukkan Austronesia tiba di Kepulauan Indonesia sekitar 3.600 tahun yang lalu, diperoleh dari pertanggalan Situs Minanga Sipakko di Sulawesi Barat. Bangsa pendatang ini dikenal sebagai pelaut yang andal, mereka mengarungi lautan dengan perahu untuk mencapai tempat-tempat yang potensial. Migrasi ini juga membawa teknologi pertanian, peternakan, dan peralatan yang memunculkan interaksi budaya dengan kebudayaan Non-Austronesia yang lebih dulu hadir di Kepulauan Indonesia.",
             "button"         : "https://raw.githubusercontent.com/rahfimuhammad/prehistoric/main/assets/Mongoloid.png",
             "assets"        : "Public Domain"
         },
