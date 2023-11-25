@@ -800,28 +800,28 @@
             "source": "arc-today",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Lancang.png"},
         
-        {   "name" : "PINISI",
-            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
-            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
-            "source": "sails.me.uk",
-            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Pinisi.png"},
-
-        {   "name" : "PALARI",
-            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
-            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
-            "source": "arc-today",
-            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Palari.png"},
-
         {   "name" : "SANDEQ",
             "summary": "Sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk",
             "description": "sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk lambung yang ramping dengan cadik di kedua sisinya. Ada beberapa ciri yang menjadi khas dari perahu ini, di antaranya adalah bentuk layarnya segitiga dan bagian mencuat pada haluan dan buritannya. Perahu Sandeq terkenal dengan kecepatan dan kelincahannya saat berlayar, di era modern, ada festival khusus yang menggelar lomba kecepatan perahu sandeq, yakni Festival Sandeq Race yang diadakan di Sulawesi Barat. ",
             "source": "arc-today",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Sandeq.png"},
-
+        
         {   "name" : "PADEWAKANG",
             "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
             "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
             "source": "sails.me.uk",
-            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Padewakang.png"}
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Padewakang.png"},
+        
+        {   "name" : "PALARI",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nostrum maiores adipisci minima voluptatum molestiae quos sint consectetur quam culpa?",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, atque error! Hic amet, ipsam odit perspiciatis tempora repellat minus officiis minima excepturi aliquid quos maxime ut adipisci unde magni tempore in asperiores omnis est sequi quidem enim harum molestias! Veritatis quia dicta adipisci quis eius in fugiat atque aspernatur omnis, rem, minus doloribus neque? Similique corrupti voluptas obcaecati exercitationem dolore tempora? Architecto culpa, accusamus, quidem doloribus, rerum expedita unde quas officiis dolor nulla ut recusandae perferendis. Libero, eveniet? Commodi vero neque temporibus, asperiores alias itaque distinctio hic consectetur quo vel debitis dicta suscipit qui optio quisquam tempore, sint magnam sunt?",
+            "source": "arc-today",
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Palari.png"},
+        
+        {   "name" : "PINISI",
+            "summary": "Kemunculan Pinisi adalah hasil dari evolusi bentuk dan teknologi perahu-perahu Bugis-Makassar di Sulawesi Selatan. Pinisi merupakan pengembangan",
+            "description": "Kemunculan Pinisi adalah hasil dari evolusi bentuk dan teknologi perahu-perahu Bugis-Makassar di Sulawesi Selatan. Pinisi merupakan pengembangan teknologi dari perahu Salompong (Salompong besar). Kapal ini memiliki tujuh helai layar yang berbeda dari model layar perahu pendahulunya. Pinisi memiliki dua tiang layar, setiap tiang layar memilki dua layar besar (satu layar berbentuk trapesium di bawah dan satu layar berbentuk segitiga di puncak), selain itu ada tiga layar kecil berbentuk segitiga di Haluan. Sepanjang sejarahnya, bentuk dan ukuran pinisi terus berevolusi untuk memenuhi kebutuhannya sebagai kapal angkut barang antar pulau. Pinisi paling besar dapat memuat beban hingga 100 ton.",
+            "source": "sails.me.uk",
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Pinisi.png"}
     ]
     }
