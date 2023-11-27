@@ -822,6 +822,12 @@
             "summary": "Kemunculan Pinisi adalah hasil dari evolusi bentuk dan teknologi perahu-perahu Bugis-Makassar di Sulawesi Selatan. Pinisi merupakan pengembangan",
             "description": "Kemunculan Pinisi adalah hasil dari evolusi bentuk dan teknologi perahu-perahu Bugis-Makassar di Sulawesi Selatan. Pinisi merupakan pengembangan teknologi dari perahu Salompong (Salompong besar). Kapal ini memiliki tujuh helai layar yang berbeda dari model layar perahu pendahulunya. Pinisi memiliki dua tiang layar, setiap tiang layar memilki dua layar besar (satu layar berbentuk trapesium di bawah dan satu layar berbentuk segitiga di puncak), selain itu ada tiga layar kecil berbentuk segitiga di haluan. Sepanjang sejarahnya, bentuk dan ukuran pinisi terus berevolusi untuk memenuhi kebutuhannya sebagai kapal angkut barang antar pulau. Pinisi paling besar dapat memuat beban hingga 100 ton.",
             "source": "sails.me.uk",
-            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Pinisi.png"}
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Pinisi.png"},
+        
+        {   "name" : "KORA-KORA",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptatibus, beatae numquam enim deserunt voluptatem fuga voluptate exercitationem laborum non?",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi mollitia minus, repudiandae voluptate asperiores illum itaque labore totam a ex assumenda! Eveniet distinctio expedita laborum placeat. Magnam eum, tempora perferendis fuga neque iste totam distinctio itaque esse nam sequi magni reprehenderit similique at, excepturi fugiat accusamus porro dolore molestias! Inventore minima eveniet adipisci, rem reiciendis saepe distinctio labore atque veniam. Harum blanditiis eum eos ratione, dolor omnis iure eaque nostrum modi, similique necessitatibus. Excepturi quam qui ducimus accusantium eaque tenetur quia obcaecati est neque delectus soluta maiores laborum aut eum facere ea vitae corporis, architecto vero iusto error cum. Earum?.",
+            "source": "arc-today",
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Kora-kora.png"}
     ]
     }
