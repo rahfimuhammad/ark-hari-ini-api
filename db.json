@@ -812,6 +812,12 @@
             "source": "sails.me.uk",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Padewakang.png"},
         
+        {   "name" : "Salompong",
+            "summary": "Perahu Salompong menjadi bagian penting dari evolusi bentuk dan teknologi perahu-perahu Bugis-Makassar. Salompong merupakan pengembangan",
+            "description": "Perahu Salompong menjadi bagian penting dari evolusi bentuk dan teknologi perahu-perahu Bugis-Makassar. Salompong merupakan pengembangan ukuran dari perahu Sulawesi Selatan sebelumnya, yaitu perahu Pajala. Ada dua tipe perahu Salompong pada masa perkembangannya, yakni Salompong kecil dan Salompong besar. Perbedaan keduanya terlihat dari jumlah tiang layar dan ukurannya. Salompong kecil memiliki ukuran yang kecil, memakai satu tiang layar, dan mampu membawa beban 10-15 ton. Sementara Salompong besar sudah memakai dua tiang layar dengan tujuh layar (empat layar di tiang layar dan tiga layar di haluan), beban yag mampu dibawa sekitar 30 ton. Kedua tipe perahu Salompong ini menjadi cikal bakal munculnya jenis perahu lain, Salompong kecil berkembang menjadi perahu Palari, sedangkan Salompong besar berkembang menjadi Pinisi.",
+            "source": "arc-today",
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Salompong.png"},
+        
         {   "name" : "PALARI",
             "summary": "Palari adalah perahu tradisional khas suku Bugis-Makassar Sulawesi Selatan. Perahu Palari merupakan bentuk modifikasi dari perahu Salompong",
             "description": "Palari adalah perahu tradisional khas suku Bugis-Makassar Sulawesi Selatan. Perahu Palari merupakan bentuk modifikasi dari perahu Salompong (Salompong kecil). Modifikasi tersebut terlihat pada bagian dek dan haluan perahu. Palari memiliki dek yang lebih tinggi dibanding Salompong, bagian haluannya juga lebih lancip. Bentuk haluan yang lancip mempermudah perahu untuk membelah ombak sehingga meningkatkan kecepatan, oleh karena kecepatannya, perahu ini disebut sebagai Palari. Perahu Palari menggunakan dua layar dengan satu tiang, layar belakang berbentuk trapesium, sementara layar depan berbentuk segitiga.",
