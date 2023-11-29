@@ -849,9 +849,15 @@
         
         {   "name" : "SANDEQ",
             "summary": "Sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk",
-            "description": "Sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk lambung yang ramping dengan cadik di kedua sisinya. Ada beberapa ciri yang menjadi khas dari perahu ini, di antaranya adalah bentuk layarnya segitiga dan bagian mencuat pada haluan dan buritannya. Perahu Sandeq terkenal dengan kecepatan dan kelincahannya saat berlayar, di era modern, ada festival khusus yang menggelar lomba kecepatan perahu sandeq, yakni Festival Sandeq Race yang diadakan di Sulawesi Barat. ",
+            "description": "Sandeq atau Sande' adalah perahu tradisional tipe perahu lesung khas Mandar, Sulawesi Barat. Perahu Sandeq umumnya berukuran kecil dengan bentuk lambung yang ramping dengan cadik di kedua sisinya. Ada beberapa ciri yang menjadi khas dari perahu ini, di antaranya adalah bentuk layarnya segitiga dan bagian mencuat pada haluan dan buritannya. Perahu Sandeq terkenal dengan kecepatan dan kelincahannya saat berlayar, di era modern, ada festival khusus yang menggelar lomba kecepatan perahu sandeq, yakni Festival Sandeq Race yang diadakan di Sulawesi Barat.",
             "source": "arc-today",
             "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Sandeq.png"},
+        
+        {   "name" : "LAMBOK",
+            "summary": "Lambok merupakan perahu khas Buton, Sulawesi Tenggara. Namun, dalam perkembangannya, teknologi pembuatan perahu ini juga sudah dikuasai oleh orang-orang",
+            "description": "Lambok merupakan perahu khas Buton, Sulawesi Tenggara. Namun, dalam perkembangannya, teknologi pembuatan perahu ini juga sudah dikuasai oleh orang-orang Sulawesi Selatan. Ciri khas dari perahu Lambok adalah pada haluannya yang tinggi, serta buritannya yang melengkung. Perahu ini menggunakan satu tiang layar yang menopang dua layar penggerak. Rata-rata kuran dari perahu Lambok termasuk kategori perahu sedang, mampu membawa beban sekitar 20-30 ton. Namun, ada juga tipe perahu Lambok yang dibuat dengan ukuran yang lebih besar. Lambok besar menggunakan dua tiang layar dengan tujuh layar penggerak, seperti pinisi. Perahu Lambok dengan tipe seperti itu umumnya disebut sebagai Lambok Pinisi.",
+            "source": "arc-today",
+            "image" : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/traditionalBoatsAssets/trb-Lambok.png"},
         
         {   "name" : "PADEWAKANG",
             "summary": "Padewakang merupakan perahu kuno khas Sulawesi Selatan pertama yang memakai lunas dengan dinding sambungan papan. Perahu ini menggunakan",
