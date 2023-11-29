@@ -58,11 +58,58 @@
             ]
          },
     {
+        "author"        : "Johan Nieuhof",
+        "nickName"      : "J. Nieuhof",
+        "employment"    : "Kartografer",
+        "year"          : "1649-1672",              
+        "category"      : 1,
+        "picture"       : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.%20Nieuhof/icon-jNieuhof.png",
+        "story"         : "Johan Nieuhof adalah seorang penjelajah asal Belanda. Ia pernah menjadi perwira cadangan saat Belanda menyerang Brazil yahun 1640. Nieuhof sempat bekerja untuk VOC pada tahun 1649, lalu pindah ke Sri Lanka dan Beijing untuk beberapa jabatan penting. Ia dikirim kembali ke Batavia pada tahun 1667 sebelum akhirnya menghilang dalam perjalanannya ke pedalaman Madagascar",
+        "workBatavia"   : [
+                                {
+                                "title"         : "Gezicht op het weeshuis te Batavia",
+                                "id"            : 0,
+                                "year"          : "1739",
+                                "author"        : "Johan Nieuhof",
+                                "nickName"      : "J. Nieuhof",
+                                "source"        : "data belum lengkap",
+                                "type"          : "",
+                                "description"   : "Litografi penggambaran sebuah rumah yatim-piatu di Batavia.",
+                                "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.%20Nieuhof/211.jpg"
+                                },
+                                {
+                                "title"         : "Gezicht op de Tijgersgracht te Batavia",
+                                "id"            : 1,
+                                "year"          : "1739",
+                                "author"        : "Johan Nieuhof",
+                                "nickName"      : "J. Nieuhof",
+                                "source"        : "data belum lengkap",
+                                "type"          : "",
+                                "description"   : "Litografi Tijgersgracht atau Parit Macan, salah satu parit di masa awal Batavia. Parit ini terkenal sebagai parit paling indah sehingga orang-orang kaya Batavia memilih untuk membangun rumah di sisi kanal. Oleh karena itu, banyak rumah-rumah mewah di kedua sisi parit Harimau yang digambarkan oleh Nieuhof.",
+                                "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.%20Nieuhof/212.jpg"
+                                },
+                                {
+                                "title"         : "Gezicht op het spinhuis te Batavia",
+                                "id"            : 2,
+                                "year"          : "1739",
+                                "author"        : "Johan Nieuhof",
+                                "nickName"      : "J. Nieuhof",
+                                "source"        : "data belum lengkap",
+                                "type"          : "",
+                                "description"   : "Litografi Spinhuis atau rumah pintal di Batavia. Tempat ini adalah penjara khusus wanita, para tahanan di penjara ini dipekerjakan untuk memintal wol.",
+                                "thumbnail"     : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.%20Nieuhof/213.jpg"
+                                }
+            ],
+            "workNonBatavia" : [
+                        
+            ]
+         },
+    {
             "author"        : "Josias Cornelis Rappard",
             "nickName"      : "J.C.Rappard",
             "employment"    : "Kolonel Infanteri KNIL",
             "year"          : "1882-1889",              
-            "category"      : 1,
+            "category"      : 2,
             "picture"       : "https://raw.githubusercontent.com/rahfimuhammad/archaeologyToday/main/assets/litografiBataviaassets/J.C.%20Rappard/icon-jcRappard.png",
             "story"         : "Josias Cornelis Rappard lahir di Nijmegen, Belanda pada tahun 1824. Di Hindia Belanda, ia bertugas sebagai Kolonel Infanteri KNIL (pasukan kerajaan Hindia Belanda) sejak tahun 1882-1889. Selama di Hindia Belanda, J.C. Rappard banyak membuat karya litografi dengan berbagai objek, mulai dari bangunan, bentang alam, kebudayaan Nusantara, hingga interaksi antara orang-orang bumiputera dengan orang Eropa, Cina, dan Timur Tengah.",
             "workBatavia"   : [
