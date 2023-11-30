@@ -1,4 +1,34 @@
-{    "litografiBatavia": [
+{   "museum":    
+    [
+        {
+            "name" : "Museum Sejarah Jakarta",
+            "location": "Jakarta",
+            "description": "Lorem ipsum dolor sit amet",
+            "reviews": [
+                        {"user": "abc",
+                        "rating": 5,
+                        "review": "Lorem ipsum dolor sit amet"},
+                        {"user": "def",
+                        "rating": 4,
+                        "review": "Lorem ipsum dolor sit amet"}
+            ]
+        },
+        {
+            "name" : "Museum Nasional",
+            "location": "Jakarta",
+            "description": "Lorem ipsum dolor sit amet",
+            "reviews": [
+                        {"user": "ghi",
+                        "rating": 5,
+                        "review": "Lorem ipsum dolor sit amet"},
+                        {"user": "jkl",
+                        "rating": 5,
+                        "review": "Lorem ipsum dolor sit amet"}
+            ]
+        }
+    ], 
+    
+    "litografiBatavia": [
     {
         "author"        : "Johann Wolfgang Heydt",
         "nickName"      : "J.W. Heydt",
