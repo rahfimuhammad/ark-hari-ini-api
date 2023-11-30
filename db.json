@@ -3,6 +3,7 @@
         {
             "name" : "Museum Sejarah Jakarta",
             "location": "Jakarta",
+            "id"      : "0",
             "description": "Lorem ipsum dolor sit amet",
             "reviews": [
                         {"user": "abc",
@@ -16,6 +17,7 @@
         {
             "name" : "Museum Nasional",
             "location": "Jakarta",
+            "id"      : "1",
             "description": "Lorem ipsum dolor sit amet",
             "reviews": [
                         {"user": "ghi",
