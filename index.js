@@ -2,69 +2,9 @@ const jsonServer = require("json-server");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
-const bodyParser = require('body-parser');
-
 const port = process.env.PORT || 3000;
 
 server.use(middlewares);
-server.use(bodyParser.json()); // Pastikan middleware ini ada
-
-// Endpoint POST untuk menambahkan ulasan pada museum tertentu
-server.post('/museum/:id/reviews', (req, res, next) => {
-  const museumId = parseInt(req.params.id);
-  const review = req.body;
-
-  // Ambil data dari db.json
-  let museums = router.db.get('museum').value();
-
-  // Cari museum dengan id yang sesuai
-  let museum = museums.find((m) => m.id === museumId);
-
-  if (museum) {
-    // Jika museum ditemukan, tambahkan ulasan ke dalam array reviews
-    museum.reviews = museum.reviews || [];
-    museum.reviews.push(review);
-
-    // Simpan perubahan
-    router.db.set('museum', museums).write();
-
-    // Kirim ulasan yang baru ditambahkan
-    res.status(201).json(review);
-  } else {
-    // Jika museum tidak ditemukan, kirim respons dengan status 404
-    res.status(404).json({ error: 'Museum not found' });
-  }
-});
-
-// Endpoint POST untuk menambahkan rating pada museum tertentu
-server.post('/museum/:id/rate', (req, res, next) => {
-  const museumId = parseInt(req.params.id);
-  const rating = req.body.rating;
-
-  // Ambil data dari db.json
-  let museums = router.db.get('museum').value();
-
-  // Cari museum dengan id yang sesuai
-  let museum = museums.find((m) => m.id === museumId);
-
-  if (museum) {
-    // Jika museum ditemukan, tambahkan rating ke dalam array rate
-    museum.rate = museum.rate || [];
-    museum.rate.push(rating);
-
-    // Simpan perubahan
-    router.db.set('museum', museums).write();
-
-    // Kirim rating yang baru ditambahkan
-    res.status(201).json({ rating });
-  } else {
-    // Jika museum tidak ditemukan, kirim respons dengan status 404
-    res.status(404).json({ error: 'Museum not found' });
-  }
-});
-
 server.use(router);
 
-server.listen(port, () => {
-  console.log(`JSON Server is running on port ${port}`);
-});
+server.listen(port);
