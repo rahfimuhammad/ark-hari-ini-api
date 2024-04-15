@@ -9,10 +9,15 @@ const getTotal = async (category) => {
         }
     }
 
-    const totalArtworks = await prisma.litographyArtwork.count({
-        where: whereCondition
-    })
-    return totalArtworks
+    try {
+        const totalArtworks = await prisma.litographyArtwork.count({
+            where: whereCondition
+        })
+        return totalArtworks
+        
+    } catch (error) {
+        console.log(error)
+    }
 }
 
 const getTotalPages = async (category, pageSize) => {
@@ -32,10 +37,15 @@ const getTotalBycategory = async (category, authorId) => {
         }
     }
 
-    const totalArtworks = await prisma.litographyArtwork.count({
-        where: whereCondition
-    })
-    return totalArtworks
+    try {
+        const totalArtworks = await prisma.litographyArtwork.count({
+            where: whereCondition
+        })
+        return totalArtworks
+        
+    } catch (error) {
+        console.log(error)
+    }
 }
 
 const getTotalPagesByCategory = async (category, pageSize, authorId) => {
