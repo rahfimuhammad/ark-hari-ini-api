@@ -29,6 +29,7 @@ model LitographyAuthor {
     nickname          String
     year              String
     proffession       String
+    nationality       String?
     picture           String
     story             String      @db.VarChar(1000)
     artwork           LitographyArtwork[]
