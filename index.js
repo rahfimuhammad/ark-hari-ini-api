@@ -11,9 +11,11 @@ app.get('/', (req, res) => {
 
 const prehistoricController = require("./prehistoric/prehistoric.controller")
 const litograpghyController = require("./litography/litography.controller")
+const boatsController = require("./boats/boats.controller")
 
 app.use("/prehistoric", prehistoricController)
 app.use("/litography", litograpghyController)
+app.use("/boats", boatsController)
 
 
 app.listen(5000, () => {

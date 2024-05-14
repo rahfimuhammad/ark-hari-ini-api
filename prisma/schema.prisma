@@ -44,3 +44,11 @@ model LitographyArtwork {
     litographyAuthorId      String
     litographyAuthor        LitographyAuthor @relation(fields: [litographyAuthorId], references: [id])
 }
+
+model Boats {
+  id            String    @id             @default(uuid())
+  name          String
+  description   String    @db.VarChar(1000)
+  image         String
+  source        String
+}
