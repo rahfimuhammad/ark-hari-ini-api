@@ -4,6 +4,7 @@ const cors = require("cors")
 const app = express()
 app.use(express.json())
 app.use(cors())
+const PORT = process.env.PORT || 8080
 
 app.get('/', (req, res) => {
     res.send('hello world!!!')
@@ -18,7 +19,7 @@ app.use("/litography", litograpghyController)
 app.use("/boats", boatsController)
 
 
-app.listen(8080, () => {
+app.listen(PORT, () => {
     console.log(`port running at port 8080`)
 })
 
