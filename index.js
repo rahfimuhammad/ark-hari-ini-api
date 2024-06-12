@@ -4,7 +4,7 @@ const cors = require("cors")
 const app = express()
 app.use(express.json())
 app.use(cors())
-const PORT = process.env.PORT || 8080
+const PORT = process.env.PORT || 2000
 
 app.get('/', (req, res) => {
     res.send('hello world!!!')
