@@ -20,7 +20,7 @@ app.use("/boats", boatsController)
 
 
 app.listen(PORT, () => {
-    console.log(`port running at port 8080`)
+    console.log(`port running at port 2000`)
 })
 
 

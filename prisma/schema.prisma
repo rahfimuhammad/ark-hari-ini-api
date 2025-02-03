@@ -11,7 +11,7 @@ generator client {
 
 datasource db {
   provider = "mysql"
-  url      = env("DATABASE_URL")
+  url      = "mysql://afimuhammad:22021997@localhost:3306/db_arkeologi"
 }
 
 model Prehistoric {
