@@ -1,12 +1,6 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
-  provider = "prisma-client-js"
-    binaryTargets = ["native", "rhel-openssl-1.0.x", "rhel-openssl-3.0.x"]
+  provider      = "prisma-client-js"
+  binaryTargets = ["native", "rhel-openssl-1.0.x", "rhel-openssl-3.0.x"]
 }
 
 datasource db {
@@ -14,41 +8,43 @@ datasource db {
   url      = "mysql://afimuhammad:22021997@localhost:3306/db_arkeologi"
 }
 
-model Prehistoric {
-    name              String
-    id                Int         @id @default(autoincrement())
-    age               String
-    description       String      @db.VarChar(1000)
-    button            String
-    assets            String
+model boats {
+  id          String @id
+  name        String
+  description String @db.VarChar(1000)
+  image       String
+  source      String
 }
 
-model LitographyAuthor {
-    id                String      @id         @default(uuid())
-    author            String
-    nickname          String
-    year              String
-    proffession       String
-    nationality       String?
-    picture           String
-    story             String      @db.VarChar(1000)
-    artwork           LitographyArtwork[]
+model litographyartwork {
+  id                 String           @id
+  title              String
+  image              String
+  category           String
+  description        String           @db.VarChar(1000)
+  litographyAuthorId String
+  litographyauthor   litographyauthor @relation(fields: [litographyAuthorId], references: [id], map: "LitographyArtwork_litographyAuthorId_fkey")
+
+  @@index([litographyAuthorId], map: "LitographyArtwork_litographyAuthorId_fkey")
 }
 
-model LitographyArtwork {
-    id                      String    @id             @default(uuid())
-    title                   String
-    image                   String
-    category                String
-    description             String    @db.VarChar(1000)
-    litographyAuthorId      String
-    litographyAuthor        LitographyAuthor @relation(fields: [litographyAuthorId], references: [id])
+model litographyauthor {
+  id                String              @id
+  author            String
+  nickname          String
+  year              String
+  proffession       String
+  picture           String
+  story             String              @db.VarChar(1000)
+  nationality       String?
+  litographyartwork litographyartwork[]
 }
 
-model Boats {
-  id            String    @id             @default(uuid())
-  name          String
-  description   String    @db.VarChar(1000)
-  image         String
-  source        String
+model prehistoric {
+  name        String
+  id          Int    @id @default(autoincrement())
+  age         String
+  button      String
+  assets      String
+  description String @db.VarChar(1000)
 }
