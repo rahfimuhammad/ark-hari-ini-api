@@ -5,7 +5,7 @@ generator client {
 
 datasource db {
   provider = "mysql"
-  url      = "mysql://afimuhammad:22021997@localhost:3306/db_arkeologi"
+  url      = "mysql://ark25_onlysimply:2cf8076858aef2e1c27a6a762ea2c63eba77f763@lgcl5.h.filess.io:3306/ark25_onlysimply"
 }
 
 model boats {
