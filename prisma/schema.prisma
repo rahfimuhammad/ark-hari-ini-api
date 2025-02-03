@@ -48,3 +48,8 @@ model prehistoric {
   assets      String
   description String @db.VarChar(1000)
 }
+
+model Test {
+  name        String
+  id          Int   @id @default(autoincrement())
+}
