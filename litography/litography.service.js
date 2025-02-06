@@ -10,7 +10,7 @@ const getTotal = async (category) => {
     }
 
     try {
-        const totalArtworks = await prisma.litographyArtwork.count({
+        const totalArtworks = await prisma.litographyartwork.count({
             where: whereCondition
         })
         return totalArtworks
@@ -38,7 +38,7 @@ const getTotalBycategory = async (category, authorId) => {
     }
 
     try {
-        const totalArtworks = await prisma.litographyArtwork.count({
+        const totalArtworks = await prisma.litographyartwork.count({
             where: whereCondition
         })
         return totalArtworks
@@ -92,7 +92,7 @@ const getArtwork = async (category, search, page,pageSize) => {
         };
     }
 
-    const artwork = await prisma.litographyArtwork.findMany({
+    const artwork = await prisma.litographyartwork.findMany({
         where: whereCondition,
         skip,
         take: pageSize,
@@ -100,7 +100,7 @@ const getArtwork = async (category, search, page,pageSize) => {
             title: 'desc'
         },
         include: {
-            litographyAuthor: true
+            litographyauthor: true
         }
     });
 
@@ -108,12 +108,12 @@ const getArtwork = async (category, search, page,pageSize) => {
 };
 
 const getArtworkById = async (id) => {
-    const artwork = await prisma.litographyArtwork.findUnique({
+    const artwork = await prisma.litographyartwork.findUnique({
         where: {
             id
         },
         include: {
-            litographyAuthor: true
+            litographyauthor: true
         }
     })
     
@@ -135,13 +135,13 @@ const getArtworkByAuthor = async (authorId, category) => {
         }
     }
 
-    const artwork = await prisma.litographyArtwork.findMany({
+    const artwork = await prisma.litographyartwork.findMany({
         where: whereCondition,
         orderBy: {
             title: 'desc'
         },
         include: {
-            litographyAuthor: true
+            litographyauthor: true
         }
     })
 
@@ -150,7 +150,7 @@ const getArtworkByAuthor = async (authorId, category) => {
 
 const getAuthor = async () => {
 
-    const author = await prisma.litographyAuthor.findMany({
+    const author = await prisma.litographyauthor.findMany({
         orderBy: {
             author: 'desc'
         }
@@ -161,7 +161,7 @@ const getAuthor = async () => {
 
 const getauthorById = async (id) => {
 
-    const author = await prisma.litographyAuthor.findUnique({
+    const author = await prisma.litographyauthor.findUnique({
         where: {
             id
         }

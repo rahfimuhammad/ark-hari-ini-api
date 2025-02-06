@@ -5,7 +5,7 @@ generator client {
 
 datasource db {
   provider = "mysql"
-  url      = "mysql://ark25_onlysimply:2cf8076858aef2e1c27a6a762ea2c63eba77f763@lgcl5.h.filess.io:3306/ark25_onlysimply"
+  url      = env("DATABASE_URL")
 }
 
 model boats {
@@ -14,6 +14,15 @@ model boats {
   description String @db.VarChar(1000)
   image       String
   source      String
+}
+
+model prehistoric {
+  name        String
+  id          Int    @id @default(autoincrement())
+  age         String
+  button      String
+  assets      String
+  description String @db.VarChar(1000)
 }
 
 model litographyartwork {
@@ -38,18 +47,4 @@ model litographyauthor {
   story             String              @db.VarChar(1000)
   nationality       String?
   litographyartwork litographyartwork[]
-}
-
-model prehistoric {
-  name        String
-  id          Int    @id @default(autoincrement())
-  age         String
-  button      String
-  assets      String
-  description String @db.VarChar(1000)
-}
-
-model Test {
-  name        String
-  id          Int   @id @default(autoincrement())
 }
